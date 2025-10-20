@@ -67,18 +67,18 @@ the enactment of this policy are:
 - "Google will verify Android developers distributing apps outside the Play store" — [https://www.theverge.com/news/765881/google-android-apps-side-loading-developer-verification](https://www.theverge.com/news/765881/google-android-apps-side-loading-developer-verification)
 - "Google will require developer verification to install Android apps, including sideloading" — [https://9to5google.com/2025/08/25/android-apps-developer-verification/](https://9to5google.com/2025/08/25/android-apps-developer-verification/)
 - “Android Security or Vendor Lock-In? Google’s New Sideloading Rules Smell Fishy” — [https://news.itsfoss.com/new-android-sideloading-rules/](https://news.itsfoss.com/new-android-sideloading-rules/)
-- “Google plans to block side-loading like Apple, declaring war on Android freedom” — [https://tuta.com/blog/android-side-load-apps-google](https://tuta.com/blog/android-side-load-apps-google)
 
 ### Video Responses:
 - “Google: 'Your $1000 phone needs our permission to install apps now'” — Louis Rossmann — [https://www.youtube.com/watch?v=QBEKlIV_70E](https://www.youtube.com/watch?v=QBEKlIV_70E)
-- “Google is Removing Sideloading” — LMG Clips — [https://www.youtube.com/watch?v=-R76VJtTDJ8](https://www.youtube.com/watch?v=-R76VJtTDJ8)
 - “F-Droid Will Die in 2026 Unless We Act Now — Techlore” — [https://www.youtube.com/watch?app=desktop&v=wRvqdLsnsKY&feature=youtu.be](https://www.youtube.com/watch?v=wRvqdLsnsKY)
+- “Google is Removing Sideloading” — LMG Clips — [https://www.youtube.com/watch?v=-R76VJtTDJ8](https://www.youtube.com/watch?v=-R76VJtTDJ8)
 - “Google's changes to sideloading could end F-Droid - Linux Weekly News” — [https://www.youtube.com/watch?v=iMqpm2Ahmt0](https://www.youtube.com/watch?v=iMqpm2Ahmt0)
 - “Is F-Droid in Trouble? Google Developer Verification” — [https://www.youtube.com/watch?v=-SOOoQWv4kk](https://www.youtube.com/watch?v=-SOOoQWv4kk)
+- “Google is Applefying Android: The End of Openness” — ChiefGyk3D — [https://www.youtube.com/watch?v=WFOPzixHoLY](https://www.youtube.com/watch?v=WFOPzixHoLY)
 
 ### Editorials and Blogs:
-– “Pluralistic: Darth Android” — [https://pluralistic.net/2025/09/01/fulu/](https://pluralistic.net/2025/09/01/fulu/)
-- “Google is Applefying Android: The End of Openness” — ChiefGyk3D — [https://www.youtube.com/watch?v=WFOPzixHoLY](https://www.youtube.com/watch?v=WFOPzixHoLY)
+- “Pluralistic: Darth Android” — [https://pluralistic.net/2025/09/01/fulu/](https://pluralistic.net/2025/09/01/fulu/)
+- “Google plans to block side-loading like Apple, declaring war on Android freedom” — [https://tuta.com/blog/android-side-load-apps-google](https://tuta.com/blog/android-side-load-apps-google)
 
 ### Official Documentation:
 - Initial announcement — [https://android-developers.googleblog.com/2025/08/elevating-android-security.html](https://android-developers.googleblog.com/2025/08/elevating-android-security.html)
