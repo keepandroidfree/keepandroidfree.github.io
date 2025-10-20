@@ -44,7 +44,7 @@ Some actions you can take to help oppose the enactment of this policy are:
 
 - [https://consumerrights.wiki/w/Android_Developer_Verification](https://consumerrights.wiki/w/Android_Developer_Verification)
 
-### Press Reaction:
+### Press Reactions
 - "Google kneecaps indie Android devs, forces them to register" — [https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/)
 - “Open-Source Android Apps at Risk Under Google’s New Decree” — [https://www.techrepublic.com/article/news-f-droid-warns-google-developer-decree-open-source-android/](https://www.techrepublic.com/article/news-f-droid-warns-google-developer-decree-open-source-android/)
 - “Google’s New Developer ID Rule Could Harm F-Droid, Says Open-Source Advocate” — [https://reclaimthenet.org/googles-android-id-rule-threatens-f-droids-future](https://reclaimthenet.org/googles-android-id-rule-threatens-f-droids-future)
@@ -62,15 +62,15 @@ Some actions you can take to help oppose the enactment of this policy are:
 - "Google will require developer verification to install Android apps, including sideloading" — [https://9to5google.com/2025/08/25/android-apps-developer-verification/](https://9to5google.com/2025/08/25/android-apps-developer-verification/)
 - “Android Security or Vendor Lock-In? Google’s New Sideloading Rules Smell Fishy” — [https://news.itsfoss.com/new-android-sideloading-rules/](https://news.itsfoss.com/new-android-sideloading-rules/)
 
-### Video Responses:
-- “Google: 'Your $1000 phone needs our permission to install apps now'” — Louis Rossmann — [https://www.youtube.com/watch?v=QBEKlIV_70E](https://www.youtube.com/watch?v=QBEKlIV_70E)
-- “F-Droid Will Die in 2026 Unless We Act Now — Techlore” — [https://www.youtube.com/watch?app=desktop&v=wRvqdLsnsKY&feature=youtu.be](https://www.youtube.com/watch?v=wRvqdLsnsKY)
-- “Google is Removing Sideloading” — LMG Clips — [https://www.youtube.com/watch?v=-R76VJtTDJ8](https://www.youtube.com/watch?v=-R76VJtTDJ8)
-- “Google's changes to sideloading could end F-Droid - Linux Weekly News” — [https://www.youtube.com/watch?v=iMqpm2Ahmt0](https://www.youtube.com/watch?v=iMqpm2Ahmt0)
-- “Is F-Droid in Trouble? Google Developer Verification” — [https://www.youtube.com/watch?v=-SOOoQWv4kk](https://www.youtube.com/watch?v=-SOOoQWv4kk)
-- “Google is Applefying Android: The End of Openness” — ChiefGyk3D — [https://www.youtube.com/watch?v=WFOPzixHoLY](https://www.youtube.com/watch?v=WFOPzixHoLY)
+### Video Responses
+- “Google: 'Your $1000 phone needs our permission to install apps now'” — Louis Rossmann — [https://youtu.be/QBEKlIV_70E](https://youtu.be/QBEKlIV_70E)
+- “F-Droid Will Die in 2026 Unless We Act Now — Techlore” — [https://youtu.be/wRvqdLsnsKY](https://youtu.be/wRvqdLsnsKY)
+- “Google is Removing Sideloading” — LMG Clips — [https://youtu.be/-R76VJtTDJ8](https://youtu.be/-R76VJtTDJ8)
+- “Google's changes to sideloading could end F-Droid - Linux Weekly News” — [https://youtu.be/iMqpm2Ahmt0](https://youtu.be/iMqpm2Ahmt0)
+- “Is F-Droid in Trouble? Google Developer Verification” — [https://youtu.be/-SOOoQWv4kk](https://youtu.be/-SOOoQWv4kk)
+- “Google is Applefying Android: The End of Openness” — ChiefGyk3D — [https://youtu.be/WFOPzixHoLY](https://youtu.be/WFOPzixHoLY)
 
-### Editorials and Blogs:
+### Editorials and Blogs
 - “F-Droid and Google's Developer Registration Decree” — [https://f-droid.org/en/2025/09/29/google-developer-registration-decree.html](https://f-droid.org/en/2025/09/29/google-developer-registration-decree.html)
 - “Pluralistic: Darth Android” — [https://pluralistic.net/2025/09/01/fulu/](https://pluralistic.net/2025/09/01/fulu/)
 - “Google plans to block side-loading like Apple, declaring war on Android freedom” — [https://tuta.com/blog/android-side-load-apps-google](https://tuta.com/blog/android-side-load-apps-google)
@@ -90,7 +90,7 @@ Some actions you can take to help oppose the enactment of this policy are:
 - [https://www.reddit.com/r/androiddev/comments/1n7g0cc/to_all_android_devs_speak_up_now_before_you_lose/](https://www.reddit.com/r/androiddev/comments/1n7g0cc/to_all_android_devs_speak_up_now_before_you_lose/)
 - [https://www.reddit.com/r/androiddev/comments/1oaj908/collection_of_actions_we_can_take_to_stop/](https://www.reddit.com/r/androiddev/comments/1oaj908/collection_of_actions_we_can_take_to_stop/)
 
-### Official Documentation:
+### Official Documentation
 - Initial announcement — [https://android-developers.googleblog.com/2025/08/elevating-android-security.html](https://android-developers.googleblog.com/2025/08/elevating-android-security.html)
 - Android developer verification: Guides — [https://developer.android.com/developer-verification/guides/android-developer-console#complete-identity](https://developer.android.com/developer-verification/guides/android-developer-console#complete-identity)
 - Android developer verification: Frequently asked questions — [https://developer.android.com/developer-verification/guides/faq](https://developer.android.com/developer-verification/guides/faq)
@@ -98,5 +98,5 @@ Some actions you can take to help oppose the enactment of this policy are:
 - Download an early look of the new Android Developer Console — [https://support.google.com/android-developer-console/answer/16450960](https://support.google.com/android-developer-console/answer/16450960)
 - API Documentation — [https://developer.android.com/reference/android/content/pm/PackageInstaller#DEVELOPER_VERIFICATION_FAILED_REASON_DEVELOPER_BLOCKED](https://developer.android.com/reference/android/content/pm/PackageInstaller#DEVELOPER_VERIFICATION_FAILED_REASON_DEVELOPER_BLOCKED)
 
-### Miscellaneous:
+### Miscellaneous
 - [Opposition recommendations](https://docs.google.com/document/d/1axlQkdc-wseda9PL2ZP0fgy3I4DqAVVlK5kJw4ksIwU)
