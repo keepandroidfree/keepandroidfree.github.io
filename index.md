@@ -17,8 +17,7 @@ without first registering centrally with Google. This registration will involve:
 - Uploading evidence of an app's private signing key
 - Listing all current and future application identifiers
 
-Some actions you can take to help support the opposition to
-the enactment of this policy are:
+Some actions you can take to help oppose the enactment of this policy are:
 
 ## European Union
 - Send feedback on EU Digital Fairness Act: [EU Digital Fairness Act: Have Your Say](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14622-Digital-Fairness-Act_en)
