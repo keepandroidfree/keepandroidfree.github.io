@@ -9,11 +9,13 @@ description: "Advocating for Android as a free, open platform for everyone to bu
 
 In August 2025, Google announced that starting next year,
 it will no longer be possible to develop apps for the Android platform
-without first registering centrally with Google. This registration will involve:
+without first registering centrally with Google.
+
+This registration will involve:
 
 - Paying a fee to Google
-- Agreeing to their terms and conditions
-- Providing government identification for the developer
+- Agreeing to Google's Terms and Conditions
+- Providing government identification
 - Uploading evidence of an app's private signing key
 - Listing all current and future application identifiers
 
