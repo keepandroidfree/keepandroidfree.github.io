@@ -39,16 +39,9 @@ the enactment of this policy are:
 
 ## References
 
-### Overviews
+### Overview
 
 - [https://consumerrights.wiki/w/Android_Developer_Verification](https://consumerrights.wiki/w/Android_Developer_Verification)
-- [https://f-droid.org/en/2025/09/29/google-developer-registration-decree.html](https://f-droid.org/en/2025/09/29/google-developer-registration-decree.html)
-
-### Discussions
-- [https://news.ycombinator.com/item?id=45409794](https://news.ycombinator.com/item?id=45409794)
-- [https://news.ycombinator.com/item?id=45507173](https://news.ycombinator.com/item?id=45507173)
-- [https://news.ycombinator.com/item?id=45569371](https://news.ycombinator.com/item?id=45569371)
-- [https://lobste.rs/s/x1sdu5/f_droid_google_s_developer_registration](https://lobste.rs/s/x1sdu5/f_droid_google_s_developer_registration)
 
 ### Press Reaction:
 - "Google kneecaps indie Android devs, forces them to register" — [https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/)
@@ -77,8 +70,24 @@ the enactment of this policy are:
 - “Google is Applefying Android: The End of Openness” — ChiefGyk3D — [https://www.youtube.com/watch?v=WFOPzixHoLY](https://www.youtube.com/watch?v=WFOPzixHoLY)
 
 ### Editorials and Blogs:
+- “F-Droid and Google's Developer Registration Decree” — [https://f-droid.org/en/2025/09/29/google-developer-registration-decree.html](https://f-droid.org/en/2025/09/29/google-developer-registration-decree.html)
 - “Pluralistic: Darth Android” — [https://pluralistic.net/2025/09/01/fulu/](https://pluralistic.net/2025/09/01/fulu/)
 - “Google plans to block side-loading like Apple, declaring war on Android freedom” — [https://tuta.com/blog/android-side-load-apps-google](https://tuta.com/blog/android-side-load-apps-google)
+
+### Discussions
+- [https://news.ycombinator.com/item?id=45409794](https://news.ycombinator.com/item?id=45409794)
+- [https://news.ycombinator.com/item?id=45507173](https://news.ycombinator.com/item?id=45507173)
+- [https://news.ycombinator.com/item?id=45569371](https://news.ycombinator.com/item?id=45569371)
+- [https://lobste.rs/s/x1sdu5/f_droid_google_s_developer_registration](https://lobste.rs/s/x1sdu5/f_droid_google_s_developer_registration)
+- [https://www.reddit.com/r/androiddev/comments/1n1m699/horrible_news/](https://www.reddit.com/r/androiddev/comments/1n1m699/horrible_news/)
+- [https://www.reddit.com/r/androiddev/comments/1n3jtrf/google_you_royally_screwed_up/](https://www.reddit.com/r/androiddev/comments/1n3jtrf/google_you_royally_screwed_up/)
+- [https://www.reddit.com/r/androiddev/comments/1n0uy6g/just_received_this_email_now_you_can_get/](https://www.reddit.com/r/androiddev/comments/1n0uy6g/just_received_this_email_now_you_can_get/)
+- [https://www.reddit.com/r/androiddev/comments/1n2im4j/this_may_mark_the_end_of_android_development_for/](https://www.reddit.com/r/androiddev/comments/1n2im4j/this_may_mark_the_end_of_android_development_for/)
+- [https://www.reddit.com/r/androiddev/comments/1n0f41c/google_will_require_developer_verification_to/](https://www.reddit.com/r/androiddev/comments/1n0f41c/google_will_require_developer_verification_to/)
+- [https://www.reddit.com/r/androiddev/comments/1km8jof/google_play_developer_verification/](https://www.reddit.com/r/androiddev/comments/1km8jof/google_play_developer_verification/)
+- [https://www.reddit.com/r/androiddev/comments/1mzw877/android_developers_blog_a_new_layer_of_security/](https://www.reddit.com/r/androiddev/comments/1mzw877/android_developers_blog_a_new_layer_of_security/)
+- [https://www.reddit.com/r/androiddev/comments/1n7g0cc/to_all_android_devs_speak_up_now_before_you_lose/](https://www.reddit.com/r/androiddev/comments/1n7g0cc/to_all_android_devs_speak_up_now_before_you_lose/)
+- [https://www.reddit.com/r/androiddev/comments/1oaj908/collection_of_actions_we_can_take_to_stop/](https://www.reddit.com/r/androiddev/comments/1oaj908/collection_of_actions_we_can_take_to_stop/)
 
 ### Official Documentation:
 - Initial announcement — [https://android-developers.googleblog.com/2025/08/elevating-android-security.html](https://android-developers.googleblog.com/2025/08/elevating-android-security.html)
