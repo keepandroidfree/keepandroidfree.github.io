@@ -21,6 +21,9 @@ This registration will involve:
 
 Some actions you can take to help oppose the enactment of this policy are:
 
+## Sign the Open Letter
+- Add your organization's signature to the draft [Open Letter to Google Regarding Mandatory Developer Registration for Third-Party App Distribution](https://docs.fediverse.foundation/pad/#/2/pad/view/OkfvdusnqafC8Wv+WUVpXB8RQk6XUFxmFHIa6CiBxQI/).
+
 ## European Union
 - Send feedback on EU Digital Fairness Act: [EU Digital Fairness Act: Have Your Say](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14622-Digital-Fairness-Act_en)
 
@@ -28,7 +31,7 @@ Some actions you can take to help oppose the enactment of this policy are:
 - Make a report to to [US Department of Justice Antitrust Report Online](https://www.justice.gov/atr/webform/submit-your-antitrust-report-online) and [US Federal Trade Commission: Antitrust Complaint](https://www.ftc.gov/advice-guidance/competition-guidance/antitrust-complaint-intake)
 
 ## United Kingdom
-- Make a report to the [UK Competition & Markets Authority](https://danb.me/blog/google-developer-verification-cma/) and [petition the UK Parliament](https://petition.parliament.uk/petitions/744446/sponsors/new)
+- Make a report to the [UK Competition & Markets Authority](https://danb.me/blog/google-developer-verification-cma/) and [petition the UK Parliament](https://petition.parliament.uk/petitions/744446/sponsors/new) [BROKEN]
 
 ## Brazil
 - Reach out to Brazil's [Procon](https://www.procon.sp.gov.br/) and [Senacon](https://www.gov.br/mj/pt-br/assuntos/seus-direitos/consumidor)
