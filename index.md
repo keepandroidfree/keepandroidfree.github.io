@@ -29,9 +29,11 @@ This registration will involve:
 
 ## How you can help
 
-First, if you are an app developer, _**do not**_ sign up for the early access program, perform identity verification, or accept an invitation to the Android Developer Console. Respond (politely) to any invitation with a list of your concernes and objections. Discourage fellow app developers and organizations from signing up to the program.
+### Resist and refuse
 
-It is only through developer acquiescence that this takeover can possibly succeed.
+If you are an app developer, _**do not**_ sign up for the early access program, perform identity verification, or accept an invitation to the Android Developer Console. Respond (politely) to any invitation with a list of your concernes and objections. Discourage fellow app developers and organizations from signing up to the program.
+
+_It is only through developer acquiescence that this takeover can possibly succeed._
 
 ### Contact national regulators
 
@@ -136,6 +138,7 @@ When contacting regulators directly, you should be polite and specific about the
 
 
 ### Press Reactions
+- "'Keep Android Open' movement fights back against Google sideloading restrictions" – [https://www.theregister.com/2025/10/29/keep_android_open_movement/](https://www.theregister.com/2025/10/29/keep_android_open_movement/)
 - "Google kneecaps indie Android devs, forces them to register" — [https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/)
 - “Open-Source Android Apps at Risk Under Google’s New Decree” — [https://www.techrepublic.com/article/news-f-droid-warns-google-developer-decree-open-source-android/](https://www.techrepublic.com/article/news-f-droid-warns-google-developer-decree-open-source-android/)
 - “Google’s New Developer ID Rule Could Harm F-Droid, Says Open-Source Advocate” — [https://reclaimthenet.org/googles-android-id-rule-threatens-f-droids-future](https://reclaimthenet.org/googles-android-id-rule-threatens-f-droids-future)
