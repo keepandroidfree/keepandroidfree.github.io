@@ -37,13 +37,17 @@ This registration will involve:
 
 ## How you can help
 
+First, if you are an app developer, _**do not**_ sign up for the early access program, perform identity verification, or accept an invitation to the Android Developer Console. Respond (politely) to any invitation with a list of your concernes and objections. Discourage fellow app developers and organizations from signing up to the program.
+
 ### Contact national regulators
 
 When contacting regulators directly, you should be polite and specific about the harm you believe these policies will cause, both to consumers and to competition. Complaints are especially impactful when they are authored by a citizen of that country or region, and when the language of the email is written in one of the official languages of the region's governing body.
 
 #### European Union
 - Email: [COMP-GREFFE-ANTITRUST@ec.europa.eu](mailto:COMP-GREFFE-ANTITRUST@ec.europa.eu?subject=Concerns%20about%20Android%20and%20competition%20in%20the%20EU&cc=europe@keepandroidopen.org)
+- Send feedback on EU interplay between DMA and GDPR: [Consultation on joint guidelines on the interplay between DMA and GDPR](https://digital-markets-act.ec.europa.eu/consultation-joint-guidelines-interplay-between-dma-and-gdpr_en) until December 4.
 - Complain to the [EU Competition Policy](https://competition-policy.ec.europa.eu/antitrust-and-cartels/contact_en)
+- Send feedback on EU Digital Fairness Act: [EU Digital Fairness Act: Have Your Say](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14622-Digital-Fairness-Act_en) [EXPIRED]
 
 #### United States
 - Email: [antitrust@ftc.gov](mailto:antitrust@ftc.gov?subject=Concerns%20about%20Android%20and%20competition&cc=usftc@keepandroidopen.org)
@@ -74,9 +78,15 @@ When contacting regulators directly, you should be polite and specific about the
 - Contact the [KPPU for Competition Complaints](https://eng.kppu.go.id)
 - _Note: Indonesia is slated to be one of the [initial 4 countries](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) where developer registration will be enforced_
 
+#### Brazil
+- Email: [superintendencia@cade.gov.br](mailto:superintendencia@cade.gov.br?subject=Concerns%20about%20Android%20and%20competition%20in%20Brazil&cc=brazil@keepandroidopen.org)
+- Reach out to Procon (depends on your state) and [Senacon](https://www.gov.br/mj/pt-br/assuntos/seus-direitos/consumidor)
+- _Note: Brazil is slated to be one of the [initial 4 countries](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) where developer registration will be enforced_
+
 #### Australia
 - Email: [info@accc.gov.au](mailto:info@accc.gov.au?subject=Concerns%20about%20Android%20and%20competition%20in%20Australia&cc=australia@keepandroidopen.org)
 - File a report with the [Australian Competition and Consumer Commission (ACCC)](https://www.accc.gov.au/about-us/contact-us-or-report-an-issue)
+- Send a request to Australian Australian Consumers’ Association ([CHOICE](https://accounts.choice.com.au/contact-us/)). Ask them to lodge a designated complaint to the Australian Competition & Consumer Comission (ACCC).
 
 #### Japan
 - Email: [intnldiv@jftc.go.jp](mailto:intnldiv@jftc.go.jp?subject=Concerns%20about%20Android%20and%20competition%20in%20Japan&cc=japan@keepandroidopen.org)
@@ -92,7 +102,7 @@ When contacting regulators directly, you should be polite and specific about the
 
 #### Canada
 - Email: [info@competitionbureau.gc.ca](mailto:info@competitionbureau.gc.ca?subject=Concerns%20about%20Android%20and%20competition%20in%20Canada&cc=canada@keepandroidopen.org)
-- Contact the [Canadian Competition Bureau](https://www.competitionbureau.gc.ca/)
+- Make a complaint to [Competition Bureau Canada](https://competition-bureau.canada.ca/en/contact-competition-bureau-canada/complaint-form)
 
 #### Taiwan
 - Email: [ftc@ftc.gov.tw](mailto:ftc@ftc.gov.tw?subject=Concerns%20about%20Android%20and%20competition%20in%20Taiwan&cc=taiwan@keepandroidopen.org)
@@ -165,6 +175,8 @@ When contacting regulators directly, you should be polite and specific about the
 - "Google will verify Android developers distributing apps outside the Play store" — [https://www.theverge.com/news/765881/google-android-apps-side-loading-developer-verification](https://www.theverge.com/news/765881/google-android-apps-side-loading-developer-verification)
 - "Google will require developer verification to install Android apps, including sideloading" — [https://9to5google.com/2025/08/25/android-apps-developer-verification/](https://9to5google.com/2025/08/25/android-apps-developer-verification/)
 - “Android Security or Vendor Lock-In? Google’s New Sideloading Rules Smell Fishy” — [https://news.itsfoss.com/new-android-sideloading-rules/](https://news.itsfoss.com/new-android-sideloading-rules/)
+- "Google Demands Dev Identity For All Android Apps" - [https://www.i-programmer.info/news/193-android/18276-google-demands-dev-identity-for-all-android-apps.html](https://www.i-programmer.info/news/193-android/18276-google-demands-dev-identity-for-all-android-apps.html)
+- "Google Defends Developer Verification" - [https://www.i-programmer.info/news/193-android/18356-google-defends-developer-verification.html](https://www.i-programmer.info/news/193-android/18356-google-defends-developer-verification.html)
 
 ### Video Responses
 - “Google: 'Your $1000 phone needs our permission to install apps now'” — Louis Rossmann — [https://youtu.be/QBEKlIV_70E](https://youtu.be/QBEKlIV_70E)
@@ -174,11 +186,19 @@ When contacting regulators directly, you should be polite and specific about the
 - “Is F-Droid in Trouble? Google Developer Verification” — [https://youtu.be/-SOOoQWv4kk](https://youtu.be/-SOOoQWv4kk)
 - “Google is Applefying Android: The End of Openness” — ChiefGyk3D — [https://youtu.be/WFOPzixHoLY](https://youtu.be/WFOPzixHoLY)
 
+### Editorials and Blogs
+
+- “F-Droid and Google's Developer Registration Decree” — [https://f-droid.org/2025/09/29/google-developer-registration-decree.html](https://f-droid.org/2025/09/29/google-developer-registration-decree.html)
+- "What We Talk About When We Talk About Sideloading" - [https://f-droid.org/2025/10/28/sideloading.html](https://f-droid.org/2025/10/28/sideloading.html)
+- “Pluralistic: Darth Android” — [https://pluralistic.net/2025/09/01/fulu/](https://pluralistic.net/2025/09/01/fulu/)
+- “Google plans to block side-loading like Apple, declaring war on Android freedom” — [https://tuta.com/blog/android-side-load-apps-google](https://tuta.com/blog/android-side-load-apps-google)
+
 ### Discussions
 - [https://news.ycombinator.com/item?id=45742488](https://news.ycombinator.com/item?id=45742488)
 - [https://news.ycombinator.com/item?id=45409794](https://news.ycombinator.com/item?id=45409794)
 - [https://news.ycombinator.com/item?id=45507173](https://news.ycombinator.com/item?id=45507173)
 - [https://news.ycombinator.com/item?id=45569371](https://news.ycombinator.com/item?id=45569371)
+- [https://news.ycombinator.com/item?id=45742488](https://news.ycombinator.com/item?id=45742488)
 - [https://lobste.rs/s/x1sdu5/f_droid_google_s_developer_registration](https://lobste.rs/s/x1sdu5/f_droid_google_s_developer_registration)
 - [https://www.reddit.com/r/androiddev/comments/1n1m699/horrible_news/](https://www.reddit.com/r/androiddev/comments/1n1m699/horrible_news/)
 - [https://www.reddit.com/r/androiddev/comments/1n3jtrf/google_you_royally_screwed_up/](https://www.reddit.com/r/androiddev/comments/1n3jtrf/google_you_royally_screwed_up/)
@@ -244,12 +264,8 @@ When contacting regulators directly, you should be polite and specific about the
             min-width: 300px;
             margin-bottom: 20px;
         ">
-            <p style="
-                margin-top: 0;
-                margin-bottom: 10px;
-                padding: 5px;
-            ">
-                <strong>Privacy Statement:</strong> We value your privacy. This site uses no cookies and performs no user tracking.
+            <p style="padding: 0px;">
+                <strong>Privacy Statement:</strong> This site uses no cookies and performs no user tracking or logging.
             </p>
 
             <p style="margin: 0;">
