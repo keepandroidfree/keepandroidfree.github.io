@@ -12,11 +12,19 @@ it will no longer be possible to develop apps for the Android platform
 without first registering centrally with Google.
 This registration will involve:
 
-<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="img/money_bag.svg" /> Paying a fee to Google</div> 
-<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="img/contract_edit.svg" /> Agreeing to Google's Terms and Conditions</div> 
-<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="img/id_card.svg" /> Providing government identification</div> 
-<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="img/fingerprint.svg" /> Uploading evidence of the developer's private signing key</div> 
-<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="img/receipt.svg" /> Listing all current and future application identifiers</div>
+<div style="display: inline-flex; align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="img/money_bag.svg" /> Paying a fee to Google</div>
+<br />
+
+<div style="display: inline-flex; align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="img/contract_edit.svg" /> Agreeing to Google's Terms and Conditions</div>
+<br />
+
+<div style="display: inline-flex; align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="img/id_card.svg" /> Providing government identification</div>
+<br />
+
+<div style="display: inline-flex; align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="img/fingerprint.svg" /> Uploading evidence of the developer's private signing key</div>
+<br />
+
+<div style="display: inline-flex; align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="img/receipt.svg" /> Listing all current and future application identifiers</div>
 
 
 ## What this means for your rights
@@ -101,12 +109,30 @@ When contacting regulators directly, you should be polite and specific about the
 - Email: [contacto@cofece.mx](mailto:contacto@cofece.mx?subject=Concerns%20about%20Android%20and%20competition%20in%20Mexico&cc=mexico@keepandroidopen.org)
 - Contact the [Comisión Federal de Competencia Económica (COFECE)](https://www.cofece.mx/)
 
+### Sign These Pettitions
+-[Petition to UK Parliament](https://petition.parliament.uk/petitions/744446/sponsors/new?token=iefxfsni3sbrd4S3AWEU)
+-[change.org pettition with most signatures](https://www.change.org/p/stop-google-from-limiting-apk-file-usage?recruiter=1370041382&recruited_by_id=fddec6e0-0e30-11f0-a55d-cd0eb0fd0ac4)
+
+### Contact These Consumer/Digital Rights Groups
+-[Euroconsumers](https://www.euroconsumers.org/)
+-[Electronic Frontier Foundation](https://www.eff.org/)
+
+### "Vote With Your Feet" and DeGoogle
+-Linus Tech Tips Videos on the Subject:
+    -[DeGoogle Your Life Part 1](https://www.youtube.com/watch?v=YnSv8ylLfPw)
+    -[ReUpload of DeGoogle Your Life Part 2](https://www.youtube.com/watch?v=YaMc64IAC8g)
+-[Wikipedia Page on DeGoogling](https://en.wikipedia.org/wiki/DeGoogle)
+-Switch to a custom Android operating system if your phone allows bootloader unlocking
+
+
 ## Sign the Open Letter
 - Add your organization's signature to the draft [Open Letter to Google Regarding Mandatory Developer Registration for Third-Party App Distribution](https://docs.fediverse.foundation/pad/#/2/pad/view/OkfvdusnqafC8Wv+WUVpXB8RQk6XUFxmFHIa6CiBxQI/) by emailing [signatories@keepandroidopen.org](mailto:signatories@keepandroidopen.org?subject=Signature%20for%20keepandroidopen.org) with your name, title, and affiliation.
 
 ## Other
 - Provide feedback directly to Google using their [Android developer verification requirements survey](https://docs.google.com/forms/d/e/1FAIpQLSfN3UQeNspQsZCO2ITkdzMxv81rJDEGGjO-UIDDY28Rz_GEVA/viewform?pli=1).
 - Make your voice heard on social media and with blog posts.
+- Send feedback on EU Digital Fairness Act. [Have your say](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14622-Digital-Fairness-Act_en)
+- Send feedback to Google via Gmail. [Here is how to do so](https://support.google.com/mail/answer/9212652)
 - Help this project out by [editing this page](https://github.com/keepandroidopen/keepandroidopen.github.io/blob/main/index.md) with more useful information.
 
 ## References
@@ -211,13 +237,6 @@ When contacting regulators directly, you should be polite and specific about the
             ">
                 <li style="margin-bottom: 5px;">Email: <a href="mailto:info@keepandroidopen.org" style="text-decoration: none;">info@keepandroidopen.org</a></li>
             </ul>
-            <ul style="
-                list-style: none;
-                padding: 0;
-                margin: 0;
-            ">
-                This work is marked <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
-            </ul>
         </div>
 
         <div style="
@@ -233,11 +252,7 @@ When contacting regulators directly, you should be polite and specific about the
                 <strong>Privacy Statement:</strong> We value your privacy. This site uses no cookies and performs no user tracking.
             </p>
 
-            <p style="
-                margin-top: 0;
-                margin-bottom: 0;
-                padding: 5px;
-            ">
+            <p style="margin: 0;">
                 <strong>Disclaimer:</strong> This website is an independent, noncommercial undertaking. It is operated solely for informational and educational purposes.
             </p>
         </div>
@@ -282,28 +297,32 @@ DISABLEDbody::before {
 }
 
 h1 {
-    font-size: 46px;
-    font-weight: 600;
-    color: #2c3e50;
-    margin: 0;
-    display: flex;
-    align-items: center;
-    gap: 20px;
     text-align: center;
-    margin-left: auto;
-    margin-right: auto;
-}
 
-h1::before, h1::after {
-    content: '';
-    flex: 1;
-    height: 2px;
-    background: linear-gradient(90deg, transparent, #3498db, transparent);
-    max-width: 100px;
-    margin-left: auto;
-    margin-right: auto;
-}
+/* Text and Font Styling */
+  font-family: 'Georgia', 'Times New Roman', serif; /* Use an elegant serif font */
+  font-size: 3em; /* Large, noticeable size */
+  font-weight: 700; /* Bold */
+  color: #333333; /* Dark, but not harsh black */
+  text-transform: capitalize; /* Optional: Capitalize the first letter of each word */
+  letter-spacing: 2px; /* Subtle spacing for readability */
 
+  /* Background and Appearance */
+  display: inline-block; /* Essential to wrap the background around the text only */
+  padding: 10px 20px; /* Internal spacing around the text */
+  margin: 30px 0; /* Vertical space for separation */
+  border-radius: 8px; /* Slightly rounded corners */
+
+  /* Soft Gradient Background - The main eye-catcher */
+  background: linear-gradient(135deg, #f0f0f0 0%, #e0e0e0 100%);
+  border: 1px solid #cccccc; /* Subtle border for definition */
+
+  /* Subtle Box Shadow - Adds depth without being heavy */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  
+  /* Text Shadow - Makes the text pop slightly */
+  text-shadow: 1px 1px 2px rgba(255, 255, 255, 0.8);
+}
 
 html, body: {
     font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
