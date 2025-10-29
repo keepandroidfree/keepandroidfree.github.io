@@ -168,3 +168,35 @@ When contacting regulators directly, you should be polite and specific about the
 - [Opposition recommendations](https://docs.google.com/document/d/1axlQkdc-wseda9PL2ZP0fgy3I4DqAVVlK5kJw4ksIwU)
 
 <img alt="Altered Deal Logo" src="altered-deal.png" width="250" />
+
+<style>
+
+body::before {
+    content: '';
+    position: fixed; /* Makes the background stay put while content scrolls */
+    top: 15%;
+    left: 15%;
+    width: 70%;
+    height: 70%;
+    z-index: -1; /* Puts the background behind all other content */
+
+    background-image: url('altered-deal.png');
+    background-size: min(70vw, 70vh);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-blend-mode: luminosity, overlay;
+
+    /*filter: grayscale(100%);*/
+    /*filter: saturate(0);*/
+    filter: opacity(10%) grayscale(100%);
+}
+
+h1, p {
+    text-align: center;
+    padding: 20px;
+    margin: 20px auto;
+    XXXmax-width: 800px;
+    XXXborder-radius: 8px;
+}
+</style>
+
