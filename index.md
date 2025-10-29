@@ -24,9 +24,6 @@ Some actions you can take to help oppose the enactment of this policy are:
 ## Sign the Open Letter
 - Add your organization's signature to the draft [Open Letter to Google Regarding Mandatory Developer Registration for Third-Party App Distribution](https://docs.fediverse.foundation/pad/#/2/pad/view/OkfvdusnqafC8Wv+WUVpXB8RQk6XUFxmFHIa6CiBxQI/).
 
-## European Union
-- Send feedback on EU Digital Fairness Act: [EU Digital Fairness Act: Have Your Say](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14622-Digital-Fairness-Act_en)
-
 ## United States
 - Make a report to to [US Department of Justice Antitrust Report Online](https://www.justice.gov/atr/webform/submit-your-antitrust-report-online) and [US Federal Trade Commission: Antitrust Complaint](https://www.ftc.gov/advice-guidance/competition-guidance/antitrust-complaint-intake)
 
