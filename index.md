@@ -10,7 +10,6 @@ description: "Advocating for Android as a free, open platform for everyone to bu
 In August 2025, Google announced that starting next year,
 it will no longer be possible to develop apps for the Android platform
 without first registering centrally with Google.
-
 This registration will involve:
 
 - Paying a fee to Google
@@ -21,17 +20,17 @@ This registration will involve:
 
 ## What this means for your rights
 
-You, the consumer, purchased your Android device believing in Google’s promise that it was an open computing platform and that you could run whatever software you choose on it. Instead, starting next year, they will be non-consensually pushing an update to your operating system that irrevocably blocks this right and leaves you at the mercy of their judgement over what software you are permitted to trust.
+You, the _consumer_, purchased your Android device believing in Google’s promise that it was an open computing platform and that you could run whatever software you choose on it. Instead, starting next year, they will be non-consensually pushing an update to your operating system that irrevocably blocks this right and leaves you at the mercy of their judgement over what software you are permitted to trust.
 
-You, the creator, can no longer develop an app and share it directly with your friends, family, and community without first seeking Google’s approval. The promise of Android — and a marketing advantage it has used to distinguish itself against the iPhone — has always been that it is “open”. But Google clearly feels that they have enough of a lock on the Android ecosystem, along with sufficient regulatory capture, that they can now jettison this principle with prejudice and impunity.
+You, the _creator_, can no longer develop an app and share it directly with your friends, family, and community without first seeking Google’s approval. The promise of Android — and a marketing advantage it has used to distinguish itself against the iPhone — has always been that it is “open”. But Google clearly feels that they have enough of a lock on the Android ecosystem, along with sufficient regulatory capture, that they can now jettison this principle with prejudice and impunity.
 
-You, the state, are ceding the rights of your citizens and your own digital sovereignty to a company with a track record of complying with the extrajudicial demands of authoritarian regimes to remove perfectly legal apps that they happen to dislike. The software that is critical to the running of your businesses and governments will be at the mercy of the opaque whims of a distant and unaccountable corporation. Monocultures are perilous not just in agriculture, but in software distribution as well.
+You, the _state_, are ceding the rights of your citizens and your own digital sovereignty to a company with a track record of complying with the extrajudicial demands of authoritarian regimes to remove perfectly legal apps that they happen to dislike. The software that is critical to the running of your businesses and governments will be at the mercy of the opaque whims of a distant and unaccountable corporation. Monocultures are perilous not just in agriculture, but in software distribution as well.
 
 ## How you can help
 
 Some actions you can take to help oppose the enactment of this policy are:
 
-### Contact National Regulators
+### Contact national regulators
 
 When contacting regulators directly, you should be polite and specific about the harm you believe these policies will cause, both to consumers and to competition. Complaints are especially impactful when they are authored by a citizen of that country or region, and when the language of the email is written in one of the official languages of the region's governing body.
 
@@ -177,7 +176,83 @@ When contacting regulators directly, you should be polite and specific about the
 ### Miscellaneous
 - [Opposition recommendations](https://docs.google.com/document/d/1axlQkdc-wseda9PL2ZP0fgy3I4DqAVVlK5kJw4ksIwU)
 
-<img alt="Altered Deal Logo" src="altered-deal.png" width="250" />
+<footer style="
+    background-color: #333; /* Dark background */
+    color: #fff; /* White text */
+    padding: 20px 5%; /* Vertical and horizontal padding */
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.6;
+    border-top: 3px solid #5cb85c; /* A subtle green accent line */
+">
+
+    <div style="
+        display: flex;
+        flex-wrap: wrap; /* Allows sections to stack on smaller screens */
+        justify-content: space-between; /* Spreads out the content */
+        max-width: 1200px; /* Max width for content centering */
+        margin: 0 auto;
+    ">
+
+        <div style="
+            flex: 1;
+            min-width: 200px; /* Ensures space on smaller screens */
+            margin-bottom: 20px;
+        ">
+            <h3 style="
+                margin-top: 0;
+                margin-bottom: 10px;
+                color: #5cb85c; /* Green highlight for the logo */
+                font-size: 20px;
+            ">
+                <img alt="Altered Deal Logo" src="altered-deal.png" width="150px" />
+            </h3>
+        </div>
+
+        <div style="
+            flex: 1;
+            min-width: 200px;
+            margin-bottom: 20px;
+        ">
+            <h4 style="
+                margin-top: 0;
+                margin-bottom: 10px;
+                color: #ddd;
+                font-size: 16px;
+            ">
+                Contact
+            </h4>
+            <ul style="
+                list-style: none;
+                padding: 0;
+                margin: 0;
+            ">
+                <li style="margin-bottom: 5px;">Email: <a href="mailto:info@keepandroidopen.org" style="color: #fff; text-decoration: none;">info@keepandroidopen.org</a></li>
+            </ul>
+        </div>
+
+        <div style="
+            flex: 2; /* Takes up more space for text */
+            min-width: 300px;
+            margin-bottom: 20px;
+        ">
+            <p style="
+                font-style: italic;
+                margin-top: 0;
+                margin-bottom: 10px;
+                padding: 5px;
+                border: 1px solid #444; /* Subtle border for distinction */
+            ">
+                <strong>Privacy Statement:</strong> We value your privacy. This site uses <strong>no cookies</strong> and performs <strong>no user tracking</strong>.
+            </p>
+
+            <p style="margin: 0;">
+                <strong>Disclaimer:</strong> This website is an <strong>independent, noncommercial undertaking</strong>. It is operated solely for informational and educational purposes.
+            </p>
+        </div>
+
+    </div>
+</footer>
 
 <style>
 
