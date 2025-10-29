@@ -23,9 +23,7 @@ Some actions you can take to help oppose the enactment of this policy are:
 
 ## Contact National Regulators
 
-When emailing regulators, you should be polite and specific about the harm you believe these policies will cause, both to consumers and to competition.
-
-Complaints are especially impactful when they are authored by a citizen of that country or region, and when the language of the email is written in one of the official languages of the region's governing body.
+When contacting regulators directly, you should be polite and specific about the harm you believe these policies will cause, both to consumers and to competition. Complaints are especially impactful when they are authored by a citizen of that country or region, and when the language of the email is written in one of the official languages of the region's governing body.
 
 ### European Union
 - Email: [COMP-GREFFE-ANTITRUST@ec.europa.eu](mailto:COMP-GREFFE-ANTITRUST@ec.europa.eu?subject=Concerns%20about%20Android%20and%20competition%20in%20the%20EU&cc=europe@keepandroidopen.org)
