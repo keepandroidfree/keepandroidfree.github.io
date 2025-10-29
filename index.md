@@ -12,11 +12,16 @@ it will no longer be possible to develop apps for the Android platform
 without first registering centrally with Google.
 This registration will involve:
 
-<p style="display: inline-flex; align-items: center; vertical-align: middle;"><img style="vertical-align: middle;" src="img/money_bag.svg" /> Paying a fee to Google</p>
-<p style="display: inline-flex; align-items: center; vertical-align: middle;"><img style="vertical-align: middle;" src="img/contract_edit.svg" /> Agreeing to Google's Terms and Conditions</p>
-<p style="display: inline-flex; align-items: center; vertical-align: middle;"><img style="vertical-align: middle;" src="img/id_card.svg" /> Providing government identification</p>
-<p style="display: inline-flex; align-items: center; vertical-align: middle;"><img style="vertical-align: middle;" src="img/fingerprint.svg" /> Uploading evidence of the developer's private signing key</p>
-<p style="display: inline-flex; align-items: center; vertical-align: middle;"><img style="vertical-align: middle;" src="img/receipt.svg" /> Listing all current and future application identifiers</p>
+<p style="display: inline-flex; align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="img/money_bag.svg" /> Paying a fee to Google</p>
+
+<p style="display: inline-flex; align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="img/contract_edit.svg" /> Agreeing to Google's Terms and Conditions</p>
+
+<p style="display: inline-flex; align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="img/id_card.svg" /> Providing government identification</p>
+
+<p style="display: inline-flex; align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="img/fingerprint.svg" /> Uploading evidence of the developer's private signing key</p>
+
+<p style="display: inline-flex; align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="img/receipt.svg" /> Listing all current and future application identifiers</p>
+
 
 ## What this means for your rights
 
