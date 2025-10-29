@@ -171,7 +171,7 @@ When contacting regulators directly, you should be polite and specific about the
 
 <style>
 
-body::before {
+DISABLEDbody::before {
     content: '';
     position: fixed; /* Makes the background stay put while content scrolls */
     top: 15%;
@@ -191,7 +191,7 @@ body::before {
     filter: opacity(10%) grayscale(100%);
 }
 
-h1, p {
+h1 {
     text-align: center;
     padding: 20px;
     margin: 20px auto;
