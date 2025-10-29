@@ -211,6 +211,13 @@ When contacting regulators directly, you should be polite and specific about the
             ">
                 <li style="margin-bottom: 5px;">Email: <a href="mailto:info@keepandroidopen.org" style="text-decoration: none;">info@keepandroidopen.org</a></li>
             </ul>
+            <ul style="
+                list-style: none;
+                padding: 0;
+                margin: 0;
+            ">
+                This work is marked <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+            </ul>
         </div>
 
         <div style="
@@ -226,7 +233,11 @@ When contacting regulators directly, you should be polite and specific about the
                 <strong>Privacy Statement:</strong> We value your privacy. This site uses no cookies and performs no user tracking.
             </p>
 
-            <p style="margin: 0;">
+            <p style="
+                margin-top: 0;
+                margin-bottom: 0;
+                padding: 5px;
+            ">
                 <strong>Disclaimer:</strong> This website is an independent, noncommercial undertaking. It is operated solely for informational and educational purposes.
             </p>
         </div>
