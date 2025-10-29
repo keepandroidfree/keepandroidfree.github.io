@@ -175,13 +175,11 @@ When contacting regulators directly, you should be polite and specific about the
 - [Opposition recommendations](https://docs.google.com/document/d/1axlQkdc-wseda9PL2ZP0fgy3I4DqAVVlK5kJw4ksIwU)
 
 <footer style="
-    background-color: #f8f9fa;
-    color: #fff;
     padding: 0px;
     margin: 0px;
     font-size: 14px;
     line-height: 1.6;
-    width: 100vw !important;
+    width: 100%;
     border-top: 1px solid #dee2e6;
 ">
 
@@ -201,7 +199,6 @@ When contacting regulators directly, you should be polite and specific about the
             <h3 style="
                 margin-top: 0;
                 margin-bottom: 10px;
-                color: #5cb85c; /* Green highlight for the logo */
                 font-size: 20px;
             ">
                 <img alt="Altered Deal Logo" src="altered-deal.png" width="150px" />
@@ -216,7 +213,6 @@ When contacting regulators directly, you should be polite and specific about the
             <h4 style="
                 margin-top: 0;
                 margin-bottom: 10px;
-                color: #ddd;
                 font-size: 16px;
             ">
                 Contact
@@ -226,7 +222,7 @@ When contacting regulators directly, you should be polite and specific about the
                 padding: 0;
                 margin: 0;
             ">
-                <li style="margin-bottom: 5px;">Email: <a href="mailto:info@keepandroidopen.org" style="color: #fff; text-decoration: none;">info@keepandroidopen.org</a></li>
+                <li style="margin-bottom: 5px;">Email: <a href="mailto:info@keepandroidopen.org" style="text-decoration: none;">info@keepandroidopen.org</a></li>
             </ul>
         </div>
 
