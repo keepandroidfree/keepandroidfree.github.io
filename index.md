@@ -45,12 +45,12 @@ When contacting regulators directly, you should be polite and specific about the
 
 ### Singapore
 - Email: [cccs_feedback@cccs.gov.sg](mailto:cccs_feedback@cccs.gov.sg?subject=Concerns%20about%20Android%20and%20competition%20in%20Singapore&cc=singapore@keepandroidopen.org)
-- Contact the [Competition and Consumer Commission of Singapore (CCCS)](http://www.cccs.gov.sg)
+- Contact the [Competition and Consumer Commission of Singapore (CCCS)](https://www.cccs.gov.sg)
 - _Note: Singapore is slated to be one of the [initial 4 countries](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) where developer registration will be enforced_
 
 ### Thailand
 - Email: [info@otcc.or.th](mailto:info@otcc.or.th?subject=Concerns%20about%20Android%20and%20competition%20in%20Thailand&cc=thailand@keepandroidopen.org)
-- Contact the [Office of Trade Competition Commission (OTCC)](http://www.otcc.go.th/)
+- Contact the [Office of Trade Competition Commission (OTCC)](https://www.tcct.or.th/)
 - _Note: Thailand is slated to be one of the [initial 4 countries](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) where developer registration will be enforced_
 
 ### Indonesia
@@ -64,35 +64,34 @@ When contacting regulators directly, you should be polite and specific about the
 
 ### Japan
 - Email: [intnldiv@jftc.go.jp](mailto:intnldiv@jftc.go.jp?subject=Concerns%20about%20Android%20and%20competition%20in%20Japan&cc=japan@keepandroidopen.org)
-- Contact the [Japan Fair Trade Commission (JFTC)](http://www.jftc.go.jp/)
+- Contact the [Japan Fair Trade Commission (JFTC)](https://www.jftc.go.jp/)
 
 ### South Korea
 - Email: [kftc@korea.kr](mailto:kftc@korea.kr?subject=Concerns%20about%20Android%20and%20competition%20in%20Korea&cc=korea@keepandroidopen.org)
-- Contact the [Korea Fair Trade Commission (KFTC)](http://www.ftc.go.kr/)
+- Contact the [Korea Fair Trade Commission (KFTC)](https://www.ftc.go.kr/)
 
 ### India
 - Email: [cci‑chairman@nic.in](mailto:cci‑chairman@nic.in?subject=Concerns%20about%20Android%20and%20competition%20in%20India&cc=india@keepandroidopen.org)
-- Contact the [Competition Commission of India (CCI)](http://www.cci.gov.in/)
+- Contact the [Competition Commission of India (CCI)](https://www.cci.gov.in/)
 
 ### Canada
 - Email: [info@competitionbureau.gc.ca](mailto:info@competitionbureau.gc.ca?subject=Concerns%20about%20Android%20and%20competition%20in%20Canada&cc=canada@keepandroidopen.org)
-- Contact the [Canadian Competition Bureau](http://www.competitionbureau.gc.ca/)
+- Contact the [Canadian Competition Bureau](https://www.competitionbureau.gc.ca/)
 
 ### Taiwan
 - Email: [ftc@ftc.gov.tw](mailto:ftc@ftc.gov.tw?subject=Concerns%20about%20Android%20and%20competition%20in%20Taiwan&cc=taiwan@keepandroidopen.org)
-- Contact the [Fair Trade Commission (FTC)](http://www.ftc.gov.tw/)
+- Contact the [Fair Trade Commission (FTC)](https://www.ftc.gov.tw/)
 
 ### Turkey
-- Email: [basin@rekabet.gov.tr](mailto:basin@rekabet.gov.tr?subject=Concerns%20about%20Android%20and%20competition%20in%20Turkey&cc=turkey@keepandroidopen.org)
-- Contact the [Rekabet Kurumu / Turkish Competition Authority (RK)](http://www.rekabet.gov.tr/)
+- Contact the [Rekabet Kurumu / Turkish Competition Authority (RK)](https://edevlet.rekabet.gov.tr/Talep/Anasayfa)
 
 ### Argentina
 - Email: [cndc@produccion.gob.ar](mailto:cndc@produccion.gob.ar?subject=Concerns%20about%20Android%20and%20competition%20in%20Argentina&cc=argentina@keepandroidopen.org)
-- Contact the [Comisión Nacional de Defensa de la Competencia (CNDC)](http://www.argentina.gob.ar/produccion/defensadelaconsumidor/competencia)
+- Contact the [Comisión Nacional de Defensa de la Competencia (CNDC)](https://www.argentina.gob.ar/defensadelacompetencia)
 
 ### Mexico
 - Email: [contacto@cofece.mx](mailto:contacto@cofece.mx?subject=Concerns%20about%20Android%20and%20competition%20in%20Mexico&cc=mexico@keepandroidopen.org)
-- Contact the [Comisión Federal de Competencia Económica (COFECE)](http://www.cofece.mx/)
+- Contact the [Comisión Federal de Competencia Económica (COFECE)](https://www.cofece.mx/)
 
 ## Sign the Open Letter
 - Add your organization's signature to the draft [Open Letter to Google Regarding Mandatory Developer Registration for Third-Party App Distribution](https://docs.fediverse.foundation/pad/#/2/pad/view/OkfvdusnqafC8Wv+WUVpXB8RQk6XUFxmFHIa6CiBxQI/) by emailing [signatories@keepandroidopen.org](mailto:signatories@keepandroidopen.org?subject=Signature%20for%20keepandroidopen.org) with your name, title, and affiliation.
