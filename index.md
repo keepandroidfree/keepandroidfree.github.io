@@ -69,6 +69,7 @@ When contacting regulators directly, you should be polite and specific about the
 #### Australia
 - Email: [info@accc.gov.au](mailto:info@accc.gov.au?subject=Concerns%20about%20Android%20and%20competition%20in%20Australia&cc=australia@keepandroidopen.org)
 - File a report with the [Australian Competition and Consumer Commission (ACCC)](https://www.accc.gov.au/about-us/contact-us-or-report-an-issue)
+- Send a request to Australian Australian Consumers’ Association ([CHOICE](https://accounts.choice.com.au/contact-us/)). Ask them to lodge a designated complaint to the Australian Competition & Consumer Comission (ACCC).
 
 #### Japan
 - Email: [intnldiv@jftc.go.jp](mailto:intnldiv@jftc.go.jp?subject=Concerns%20about%20Android%20and%20competition%20in%20Japan&cc=japan@keepandroidopen.org)
