@@ -216,7 +216,7 @@ When contacting regulators directly, you should be polite and specific about the
                 padding: 0;
                 margin: 0;
             ">
-                This work is marked <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+                This work is marked <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal</a><img src="img/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="img/zero.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
             </ul>
         </div>
 
@@ -226,16 +226,12 @@ When contacting regulators directly, you should be polite and specific about the
             margin-bottom: 20px;
         ">
             <p style="
-                margin-top: 0;
-                margin-bottom: 10px;
                 padding: 5px;
             ">
                 <strong>Privacy Statement:</strong> We value your privacy. This site uses no cookies and performs no user tracking.
             </p>
 
             <p style="
-                margin-top: 0;
-                margin-bottom: 0;
                 padding: 5px;
             ">
                 <strong>Disclaimer:</strong> This website is an independent, noncommercial undertaking. It is operated solely for informational and educational purposes.
