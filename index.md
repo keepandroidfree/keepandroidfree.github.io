@@ -22,7 +22,7 @@ This registration will involve:
 Some actions you can take to help oppose the enactment of this policy are:
 
 ## Sign the Open Letter
-- Add your organization's signature to the draft [Open Letter to Google Regarding Mandatory Developer Registration for Third-Party App Distribution](https://docs.fediverse.foundation/pad/#/2/pad/view/OkfvdusnqafC8Wv+WUVpXB8RQk6XUFxmFHIa6CiBxQI/).
+- Add your organization's signature to the draft [Open Letter to Google Regarding Mandatory Developer Registration for Third-Party App Distribution](https://docs.fediverse.foundation/pad/#/2/pad/view/OkfvdusnqafC8Wv+WUVpXB8RQk6XUFxmFHIa6CiBxQI/) by emailing [signatories@keepandroidopen.org](mailto:signatories@keepandroidopen.org) with your name, title, and affiliation.
 
 ## European Union
 - Send feedback on EU Digital Fairness Act: [EU Digital Fairness Act: Have Your Say](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14622-Digital-Fairness-Act_en)
@@ -46,6 +46,13 @@ Some actions you can take to help oppose the enactment of this policy are:
 ### Overview
 
 - [https://consumerrights.wiki/w/Android_Developer_Verification](https://consumerrights.wiki/w/Android_Developer_Verification)
+
+### Editorials and Blogs
+- “What We Talk About When We Talk About Sideloading” — [https://f-droid.org/en/2025/10/28/sideloading.html](https://f-droid.org/en/2025/10/28/sideloading.html)
+- “F-Droid and Google's Developer Registration Decree” — [https://f-droid.org/en/2025/09/29/google-developer-registration-decree.html](https://f-droid.org/en/2025/09/29/google-developer-registration-decree.html)
+- “Pluralistic: Darth Android” — [https://pluralistic.net/2025/09/01/fulu/](https://pluralistic.net/2025/09/01/fulu/)
+- “Google plans to block side-loading like Apple, declaring war on Android freedom” — [https://tuta.com/blog/android-side-load-apps-google](https://tuta.com/blog/android-side-load-apps-google)
+
 
 ### Press Reactions
 - "Google kneecaps indie Android devs, forces them to register" — [https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/)
@@ -72,11 +79,6 @@ Some actions you can take to help oppose the enactment of this policy are:
 - “Google's changes to sideloading could end F-Droid - Linux Weekly News” — [https://youtu.be/iMqpm2Ahmt0](https://youtu.be/iMqpm2Ahmt0)
 - “Is F-Droid in Trouble? Google Developer Verification” — [https://youtu.be/-SOOoQWv4kk](https://youtu.be/-SOOoQWv4kk)
 - “Google is Applefying Android: The End of Openness” — ChiefGyk3D — [https://youtu.be/WFOPzixHoLY](https://youtu.be/WFOPzixHoLY)
-
-### Editorials and Blogs
-- “F-Droid and Google's Developer Registration Decree” — [https://f-droid.org/en/2025/09/29/google-developer-registration-decree.html](https://f-droid.org/en/2025/09/29/google-developer-registration-decree.html)
-- “Pluralistic: Darth Android” — [https://pluralistic.net/2025/09/01/fulu/](https://pluralistic.net/2025/09/01/fulu/)
-- “Google plans to block side-loading like Apple, declaring war on Android freedom” — [https://tuta.com/blog/android-side-load-apps-google](https://tuta.com/blog/android-side-load-apps-google)
 
 ### Discussions
 - [https://news.ycombinator.com/item?id=45409794](https://news.ycombinator.com/item?id=45409794)
