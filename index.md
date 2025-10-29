@@ -22,32 +22,38 @@ This registration will involve:
 Some actions you can take to help oppose the enactment of this policy are:
 
 ## Sign the Open Letter
-- Add your organization's signature to the draft [Open Letter to Google Regarding Mandatory Developer Registration for Third-Party App Distribution](https://docs.fediverse.foundation/pad/#/2/pad/view/OkfvdusnqafC8Wv+WUVpXB8RQk6XUFxmFHIa6CiBxQI/) by emailing [signatories@keepandroidopen.org](mailto:signatories@keepandroidopen.org?subject=Signature+for+keepandroidopen.org) with your name, title, and affiliation.
+- Add your organization's signature to the draft [Open Letter to Google Regarding Mandatory Developer Registration for Third-Party App Distribution](https://docs.fediverse.foundation/pad/#/2/pad/view/OkfvdusnqafC8Wv+WUVpXB8RQk6XUFxmFHIa6CiBxQI/) by emailing [signatories@keepandroidopen.org](mailto:signatories@keepandroidopen.org?subject=Signature%20for%20keepandroidopen.org) with your name, title, and affiliation.
 
 ## European Union
 - Complain to the [EU Competition Policy](https://competition-policy.ec.europa.eu/antitrust-and-cartels/contact_en)
-- Email [COMP-GREFFE-ANTITRUST@ec.europa.eu](mailto:COMP-GREFFE-ANTITRUST@ec.europa.eu?subject=Concerns+about+Android+and+competition)
+- Email [COMP-GREFFE-ANTITRUST@ec.europa.eu](mailto:COMP-GREFFE-ANTITRUST@ec.europa.eu?subject=Concerns%20about%20Android%20and%20competition%20in%20the%20EU)
 
 ## United States
 - Make a report to to [US Department of Justice Antitrust Report Online](https://www.justice.gov/atr/webform/submit-your-antitrust-report-online) and [US Federal Trade Commission: Antitrust Complaint](https://www.ftc.gov/advice-guidance/competition-guidance/antitrust-complaint-intake)
 
 ## United Kingdom
 - Make a report to the [UK Competition & Markets Authority](https://contact-the-cma.service.gov.uk/wizard/classify)
-- Email [general.enquiries@cma.gov.uk](mailto:general.enquiries@cma.gov.uk?subject=Concerns+about+Android+and+competition)
+- Email [general.enquiries@cma.gov.uk](mailto:general.enquiries@cma.gov.uk?subject=Concerns%20about%20Android%20and%20competition%20in%20the%20United%20Kingdom)
 
 ## Brazil
 - Reach out to Brazil's [Procon](https://www.procon.sp.gov.br/) and [Senacon](https://www.gov.br/mj/pt-br/assuntos/seus-direitos/consumidor) 
-- Email [superintendencia@cade.gov.br](mailto:superintendencia@cade.gov.br?subject=Concerns+about+Android+and+competition)
-- _Note: Brazil is slated to be one of the initial 4 countries where developer registration will be activated_
+- Email [superintendencia@cade.gov.br](mailto:superintendencia@cade.gov.br?subject=Concerns%20about%20Android%20and%20competition%20in%20Brazil)
+- _Note: Brazil is slated to be one of the [initial 4 countries](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) where developer registration will be activated_
 
 ## Singapore
 - Contact the [Competition and Consumer Commission of Singapore (CCCS)](http://www.cccs.gov.sg)
-- Email [cccs_feedback@cccs.gov.sg](mailto:cccs_feedback@cccs.gov.sg?subject=Concerns+about+Android+and+competition)
-- _Note: Singapore is slated to be one of the initial 4 countries where developer registration will be activated_
+- Email [cccs_feedback@cccs.gov.sg](mailto:cccs_feedback@cccs.gov.sg?subject=Concerns%20about%20Android%20and%20competition%20in%20Singapore)
+- _Note: Singapore is slated to be one of the [initial 4 countries](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) where developer registration will be activated_
 
 ## Thailand
+- Contact the [Office of Trade Competition Commission (OTCC)](http://www.otcc.go.th/)
+- Email [info@otcc.or.th](mailto:info@otcc.or.th?subject=Concerns%20about%20Android%20and%20competition%20in%20Thailand)
+- _Note: Thailand is slated to be one of the [initial 4 countries](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) where developer registration will be activated_
 
 ## Indonesia
+- Contact the [KPPU for Competition Complaints](https://eng.kppu.go.id)
+- Email [infokom@kppu.go.id](mailto:infokom@kppu.go.id?subject=Concerns%20about%20Android%20and%20competition%20in%20Indonesia)
+- _Note: Indonesia is slated to be one of the [initial 4 countries](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) where developer registration will be activated_
 
 
 ## Australia
