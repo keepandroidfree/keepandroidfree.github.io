@@ -13,12 +13,16 @@ without first registering centrally with Google.
 This registration will involve:
 
 <div style="display: inline-flex; align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="img/money_bag.svg" /> Paying a fee to Google</div>
+<br />
 
 <div style="display: inline-flex; align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="img/contract_edit.svg" /> Agreeing to Google's Terms and Conditions</div>
+<br />
 
 <div style="display: inline-flex; align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="img/id_card.svg" /> Providing government identification</div>
+<br />
 
 <div style="display: inline-flex; align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="img/fingerprint.svg" /> Uploading evidence of the developer's private signing key</div>
+<br />
 
 <div style="display: inline-flex; align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="img/receipt.svg" /> Listing all current and future application identifiers</div>
 
@@ -276,10 +280,30 @@ DISABLEDbody::before {
 
 h1 {
     text-align: center;
-    padding: 20px;
-    margin: 20px auto;
-    XXXmax-width: 800px;
-    XXXborder-radius: 8px;
+
+/* Text and Font Styling */
+  font-family: 'Georgia', 'Times New Roman', serif; /* Use an elegant serif font */
+  font-size: 3em; /* Large, noticeable size */
+  font-weight: 700; /* Bold */
+  color: #333333; /* Dark, but not harsh black */
+  text-transform: capitalize; /* Optional: Capitalize the first letter of each word */
+  letter-spacing: 2px; /* Subtle spacing for readability */
+
+  /* Background and Appearance */
+  display: inline-block; /* Essential to wrap the background around the text only */
+  padding: 10px 20px; /* Internal spacing around the text */
+  margin: 30px 0; /* Vertical space for separation */
+  border-radius: 8px; /* Slightly rounded corners */
+
+  /* Soft Gradient Background - The main eye-catcher */
+  background: linear-gradient(135deg, #f0f0f0 0%, #e0e0e0 100%);
+  border: 1px solid #cccccc; /* Subtle border for definition */
+
+  /* Subtle Box Shadow - Adds depth without being heavy */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  
+  /* Text Shadow - Makes the text pop slightly */
+  text-shadow: 1px 1px 2px rgba(255, 255, 255, 0.8);
 }
 
 html, body: {
