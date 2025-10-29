@@ -31,10 +31,13 @@ Some actions you can take to help oppose the enactment of this policy are:
 - Make a report to to [US Department of Justice Antitrust Report Online](https://www.justice.gov/atr/webform/submit-your-antitrust-report-online) and [US Federal Trade Commission: Antitrust Complaint](https://www.ftc.gov/advice-guidance/competition-guidance/antitrust-complaint-intake)
 
 ## United Kingdom
-- Make a report to the [UK Competition & Markets Authority](https://danb.me/blog/google-developer-verification-cma/) and [petition the UK Parliament](https://petition.parliament.uk/petitions/744446/sponsors/new) [BROKEN]
+- Make a report to the [UK Competition & Markets Authority](https://contact-the-cma.service.gov.uk/wizard/classify)
 
 ## Brazil
 - Reach out to Brazil's [Procon](https://www.procon.sp.gov.br/) and [Senacon](https://www.gov.br/mj/pt-br/assuntos/seus-direitos/consumidor)
+
+## Australia
+- File a report with the [Australian Competition and Consumer Commission (ACCC)](https://www.accc.gov.au/about-us/contact-us-or-report-an-issue)
 
 ## Other
 - Provide feedback directly to Google using their [Android developer verification requirements survey](https://docs.google.com/forms/d/e/1FAIpQLSfN3UQeNspQsZCO2ITkdzMxv81rJDEGGjO-UIDDY28Rz_GEVA/viewform?pli=1).
@@ -48,8 +51,8 @@ Some actions you can take to help oppose the enactment of this policy are:
 - [https://consumerrights.wiki/w/Android_Developer_Verification](https://consumerrights.wiki/w/Android_Developer_Verification)
 
 ### Editorials and Blogs
-- “What We Talk About When We Talk About Sideloading” — [https://f-droid.org/en/2025/10/28/sideloading.html](https://f-droid.org/en/2025/10/28/sideloading.html)
-- “F-Droid and Google's Developer Registration Decree” — [https://f-droid.org/en/2025/09/29/google-developer-registration-decree.html](https://f-droid.org/en/2025/09/29/google-developer-registration-decree.html)
+- “What We Talk About When We Talk About Sideloading” — [https://f-droid.org/en/2025/10/28/sideloading.html](https://f-droid.org/en/2025/10/28/sideloading.html) ([Hacker News Thread](https://news.ycombinator.com/item?id=45736479))
+- “F-Droid and Google's Developer Registration Decree” — [https://f-droid.org/en/2025/09/29/google-developer-registration-decree.html](https://f-droid.org/en/2025/09/29/google-developer-registration-decree.html) ([Hacker News Thread](https://news.ycombinator.com/item?id=45409794))
 - “Pluralistic: Darth Android” — [https://pluralistic.net/2025/09/01/fulu/](https://pluralistic.net/2025/09/01/fulu/)
 - “Google plans to block side-loading like Apple, declaring war on Android freedom” — [https://tuta.com/blog/android-side-load-apps-google](https://tuta.com/blog/android-side-load-apps-google)
 
@@ -81,6 +84,7 @@ Some actions you can take to help oppose the enactment of this policy are:
 - “Google is Applefying Android: The End of Openness” — ChiefGyk3D — [https://youtu.be/WFOPzixHoLY](https://youtu.be/WFOPzixHoLY)
 
 ### Discussions
+- [https://news.ycombinator.com/item?id=45742488](https://news.ycombinator.com/item?id=45742488)
 - [https://news.ycombinator.com/item?id=45409794](https://news.ycombinator.com/item?id=45409794)
 - [https://news.ycombinator.com/item?id=45507173](https://news.ycombinator.com/item?id=45507173)
 - [https://news.ycombinator.com/item?id=45569371](https://news.ycombinator.com/item?id=45569371)
