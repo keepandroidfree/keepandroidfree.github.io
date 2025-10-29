@@ -177,13 +177,13 @@ When contacting regulators directly, you should be polite and specific about the
 - [Opposition recommendations](https://docs.google.com/document/d/1axlQkdc-wseda9PL2ZP0fgy3I4DqAVVlK5kJw4ksIwU)
 
 <footer style="
-    background-color: #333; /* Dark background */
-    color: #fff; /* White text */
-    padding: 20px 5%; /* Vertical and horizontal padding */
-    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    color: #fff;
+    padding: 0px;
     font-size: 14px;
     line-height: 1.6;
-    border-top: 3px solid #5cb85c; /* A subtle green accent line */
+    width: 100%;
+    border-top: 1px solid #dee2e6;
 ">
 
     <div style="
@@ -283,5 +283,10 @@ h1 {
     XXXmax-width: 800px;
     XXXborder-radius: 8px;
 }
+
+html, body: {
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
 </style>
 
