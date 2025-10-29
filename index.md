@@ -12,11 +12,11 @@ it will no longer be possible to develop apps for the Android platform
 without first registering centrally with Google.
 This registration will involve:
 
-- Paying a fee to Google
-- Agreeing to Google's Terms and Conditions
-- Providing government identification
-- Uploading evidence of an app's private signing key
-- Listing all current and future application identifiers
+<img src="img/money_bag.svg" /> Paying a fee to Google
+<img src="img/contract_edit.svg" /> Agreeing to Google's Terms and Conditions
+<img src="img/id_card.svg" /> Providing government identification
+<img src="img/fingerprint.svg" /> Uploading evidence of the developer's private signing key
+<img src="img/receipt.svg" /> Listing all current and future application identifiers
 
 ## What this means for your rights
 
@@ -193,20 +193,6 @@ When contacting regulators directly, you should be polite and specific about the
 
         <div style="
             flex: 1;
-            min-width: 200px; /* Ensures space on smaller screens */
-            margin-bottom: 20px;
-        ">
-            <h3 style="
-                margin-top: 0;
-                margin-bottom: 10px;
-                font-size: 20px;
-            ">
-                <img alt="Altered Deal Logo" src="altered-deal.png" width="150px" />
-            </h3>
-        </div>
-
-        <div style="
-            flex: 1;
             min-width: 200px;
             margin-bottom: 20px;
         ">
@@ -232,17 +218,30 @@ When contacting regulators directly, you should be polite and specific about the
             margin-bottom: 20px;
         ">
             <p style="
-                font-style: italic;
                 margin-top: 0;
                 margin-bottom: 10px;
                 padding: 5px;
             ">
-                <strong>Privacy Statement:</strong> We value your privacy. This site uses <strong>no cookies</strong> and performs <strong>no user tracking</strong>.
+                <strong>Privacy Statement:</strong> We value your privacy. This site uses no cookies and performs no user tracking.
             </p>
 
             <p style="margin: 0;">
-                <strong>Disclaimer:</strong> This website is an <strong>independent, noncommercial undertaking</strong>. It is operated solely for informational and educational purposes.
+                <strong>Disclaimer:</strong> This website is an independent, noncommercial undertaking. It is operated solely for informational and educational purposes.
             </p>
+        </div>
+
+        <div style="
+            flex: 1;
+            min-width: 200px; /* Ensures space on smaller screens */
+            margin-bottom: 20px;
+        ">
+            <h3 style="
+                margin-top: 0;
+                margin-bottom: 10px;
+                font-size: 20px;
+            ">
+                <img alt="Altered Deal Logo" src="altered-deal.png" width="150px" />
+            </h3>
         </div>
 
     </div>
