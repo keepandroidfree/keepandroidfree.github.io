@@ -109,3 +109,5 @@ Some actions you can take to help oppose the enactment of this policy are:
 
 ### Miscellaneous
 - [Opposition recommendations](https://docs.google.com/document/d/1axlQkdc-wseda9PL2ZP0fgy3I4DqAVVlK5kJw4ksIwU)
+
+<img alt="Altered Deal Logo" src="altered-deal.png" width="250" />
