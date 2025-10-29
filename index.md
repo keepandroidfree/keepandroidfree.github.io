@@ -31,6 +31,8 @@ This registration will involve:
 
 First, if you are an app developer, _**do not**_ sign up for the early access program, perform identity verification, or accept an invitation to the Android Developer Console. Respond (politely) to any invitation with a list of your concernes and objections. Discourage fellow app developers and organizations from signing up to the program.
 
+It is only through developer acquiescence that this takeover can possibly succeed.
+
 ### Contact national regulators
 
 When contacting regulators directly, you should be polite and specific about the harm you believe these policies will cause, both to consumers and to competition. Complaints are especially impactful when they are authored by a citizen of that country or region, and when the language of the email is written in one of the official languages of the region's governing body.
