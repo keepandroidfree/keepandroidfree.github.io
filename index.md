@@ -216,7 +216,7 @@ When contacting regulators directly, you should be polite and specific about the
                 padding: 0;
                 margin: 0;
             ">
-                This work is marked <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal</a><img src="img/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="img/zero.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+                <li style="margin-bottom: 5px;"><a href="https://github.com/keepandroidopen/keepandroidopen.github.io/issues" style="text-decoration: none;">Report Site Issues</a></li>
             </ul>
         </div>
 
@@ -225,16 +225,15 @@ When contacting regulators directly, you should be polite and specific about the
             min-width: 300px;
             margin-bottom: 20px;
         ">
-            <p style="
-                padding: 5px;
-            ">
+            <p style="padding: 0px;">
                 <strong>Privacy Statement:</strong> We value your privacy. This site uses no cookies and performs no user tracking.
             </p>
 
-            <p style="
-                padding: 5px;
-            ">
+            <p style="padding: 0px;">
                 <strong>Disclaimer:</strong> This website is an independent, noncommercial undertaking. It is operated solely for informational and educational purposes.
+            </p>
+            <p style="padding: 0px;">
+                This work is marked <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal</a><img src="img/cc.svg" alt="CC0 logo" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="img/zero.svg" alt="CC0 zero logo" style="max-width: 1em;max-height:1em;margin-left: .2em;">
             </p>
         </div>
 
