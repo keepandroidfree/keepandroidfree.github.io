@@ -24,11 +24,9 @@ You, the _consumer_, purchased your Android device believing in Google’s promi
 
 You, the _creator_, can no longer develop an app and share it directly with your friends, family, and community without first seeking Google’s approval. The promise of Android — and a marketing advantage it has used to distinguish itself against the iPhone — has always been that it is “open”. But Google clearly feels that they have enough of a lock on the Android ecosystem, along with sufficient regulatory capture, that they can now jettison this principle with prejudice and impunity.
 
-You, the _state_, are ceding the rights of your citizens and your own digital sovereignty to a company with a track record of complying with the extrajudicial demands of authoritarian regimes to remove perfectly legal apps that they happen to dislike. The software that is critical to the running of your businesses and governments will be at the mercy of the opaque whims of a distant and unaccountable corporation. Monocultures are perilous not just in agriculture, but in software distribution as well.
+You, the _state_, are ceding the rights of your citizens and your own digital sovereignty to a company with a track record of complying with the extrajudicial demands of authoritarian regimes to remove perfectly legal apps that they happen to dislike. The software that is critical to the running of your businesses and governments will be at the mercy of the opaque whims of a distant and unaccountable corporation.
 
 ## How you can help
-
-Some actions you can take to help oppose the enactment of this policy are:
 
 ### Contact national regulators
 
@@ -180,9 +178,10 @@ When contacting regulators directly, you should be polite and specific about the
     background-color: #f8f9fa;
     color: #fff;
     padding: 0px;
+    margin: 0px;
     font-size: 14px;
     line-height: 1.6;
-    width: 100%;
+    width: 100vw !important;
     border-top: 1px solid #dee2e6;
 ">
 
