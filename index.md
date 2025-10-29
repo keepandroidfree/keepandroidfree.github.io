@@ -37,7 +37,9 @@ When contacting regulators directly, you should be polite and specific about the
 
 #### European Union
 - Email: [COMP-GREFFE-ANTITRUST@ec.europa.eu](mailto:COMP-GREFFE-ANTITRUST@ec.europa.eu?subject=Concerns%20about%20Android%20and%20competition%20in%20the%20EU&cc=europe@keepandroidopen.org)
+- Send feedback on EU interplay between DMA and GDPR: [Consultation on joint guidelines on the interplay between DMA and GDPR](https://digital-markets-act.ec.europa.eu/consultation-joint-guidelines-interplay-between-dma-and-gdpr_en) until December 4.
 - Complain to the [EU Competition Policy](https://competition-policy.ec.europa.eu/antitrust-and-cartels/contact_en)
+- Send feedback on EU Digital Fairness Act: [EU Digital Fairness Act: Have Your Say](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14622-Digital-Fairness-Act_en) [EXPIRED]
 
 #### United States
 - Email: [antitrust@ftc.gov](mailto:antitrust@ftc.gov?subject=Concerns%20about%20Android%20and%20competition&cc=usftc@keepandroidopen.org)
@@ -157,6 +159,13 @@ When contacting regulators directly, you should be polite and specific about the
 - “Google's changes to sideloading could end F-Droid - Linux Weekly News” — [https://youtu.be/iMqpm2Ahmt0](https://youtu.be/iMqpm2Ahmt0)
 - “Is F-Droid in Trouble? Google Developer Verification” — [https://youtu.be/-SOOoQWv4kk](https://youtu.be/-SOOoQWv4kk)
 - “Google is Applefying Android: The End of Openness” — ChiefGyk3D — [https://youtu.be/WFOPzixHoLY](https://youtu.be/WFOPzixHoLY)
+
+### Editorials and Blogs
+
+- “F-Droid and Google's Developer Registration Decree” — [https://f-droid.org/2025/09/29/google-developer-registration-decree.html](https://f-droid.org/2025/09/29/google-developer-registration-decree.html)
+- "What We Talk About When We Talk About Sideloading" - [https://f-droid.org/2025/10/28/sideloading.html](https://f-droid.org/2025/10/28/sideloading.html)
+- “Pluralistic: Darth Android” — [https://pluralistic.net/2025/09/01/fulu/](https://pluralistic.net/2025/09/01/fulu/)
+- “Google plans to block side-loading like Apple, declaring war on Android freedom” — [https://tuta.com/blog/android-side-load-apps-google](https://tuta.com/blog/android-side-load-apps-google)
 
 ### Discussions
 - [https://news.ycombinator.com/item?id=45742488](https://news.ycombinator.com/item?id=45742488)
