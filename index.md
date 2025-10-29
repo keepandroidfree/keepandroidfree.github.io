@@ -24,65 +24,76 @@ Some actions you can take to help oppose the enactment of this policy are:
 ## Sign the Open Letter
 - Add your organization's signature to the draft [Open Letter to Google Regarding Mandatory Developer Registration for Third-Party App Distribution](https://docs.fediverse.foundation/pad/#/2/pad/view/OkfvdusnqafC8Wv+WUVpXB8RQk6XUFxmFHIa6CiBxQI/) by emailing [signatories@keepandroidopen.org](mailto:signatories@keepandroidopen.org?subject=Signature%20for%20keepandroidopen.org) with your name, title, and affiliation.
 
-## European Union
+## Contact National Regulators
+
+When emailing regulators, you should be polite and specific about the harm you believe these policies will cause, both to consumers and to competition.
+
+### European Union
 - Email: [COMP-GREFFE-ANTITRUST@ec.europa.eu](mailto:COMP-GREFFE-ANTITRUST@ec.europa.eu?subject=Concerns%20about%20Android%20and%20competition%20in%20the%20EU)
 - Complain to the [EU Competition Policy](https://competition-policy.ec.europa.eu/antitrust-and-cartels/contact_en)
 
-## United States
+### United States
 - Email: [antitrust@ftc.gov](mailto:antitrust@ftc.gov?subject=Concerns%20about%20Android%20and%20competition)
 - Email: [antitrust.complaints@usdoj.gov](mailto:antitrust.complaints@usdoj.gov?subject=Concerns%20about%20Android%20and%20competition)
 - Make a report to to [US Department of Justice Antitrust Report Online](https://www.justice.gov/atr/webform/submit-your-antitrust-report-online) and [US Federal Trade Commission: Antitrust Complaint](https://www.ftc.gov/advice-guidance/competition-guidance/antitrust-complaint-intake)
 
-## United Kingdom
+### United Kingdom
 - Email: [general.enquiries@cma.gov.uk](mailto:general.enquiries@cma.gov.uk?subject=Concerns%20about%20Android%20and%20competition%20in%20the%20United%20Kingdom)
 - Make a report to the [UK Competition & Markets Authority](https://contact-the-cma.service.gov.uk/wizard/classify)
 
-## Brazil
+### Brazil
 - Email: [superintendencia@cade.gov.br](mailto:superintendencia@cade.gov.br?subject=Concerns%20about%20Android%20and%20competition%20in%20Brazil)
 - Reach out to Brazil's [Procon](https://www.procon.sp.gov.br/) and [Senacon](https://www.gov.br/mj/pt-br/assuntos/seus-direitos/consumidor) 
-- _Note: Brazil is slated to be one of the [initial 4 countries](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) where developer registration will be activated_
+- _Note: Brazil is slated to be one of the [initial 4 countries](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) where developer registration will be enforced_
 
-## Singapore
+### Singapore
 - Email: [cccs_feedback@cccs.gov.sg](mailto:cccs_feedback@cccs.gov.sg?subject=Concerns%20about%20Android%20and%20competition%20in%20Singapore)
 - Contact the [Competition and Consumer Commission of Singapore (CCCS)](http://www.cccs.gov.sg)
-- _Note: Singapore is slated to be one of the [initial 4 countries](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) where developer registration will be activated_
+- _Note: Singapore is slated to be one of the [initial 4 countries](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) where developer registration will be enforced_
 
-## Thailand
+### Thailand
 - Email: [info@otcc.or.th](mailto:info@otcc.or.th?subject=Concerns%20about%20Android%20and%20competition%20in%20Thailand)
 - Contact the [Office of Trade Competition Commission (OTCC)](http://www.otcc.go.th/)
-- _Note: Thailand is slated to be one of the [initial 4 countries](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) where developer registration will be activated_
+- _Note: Thailand is slated to be one of the [initial 4 countries](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) where developer registration will be enforced_
 
-## Indonesia
+### Indonesia
 - Email: [infokom@kppu.go.id](mailto:infokom@kppu.go.id?subject=Concerns%20about%20Android%20and%20competition%20in%20Indonesia)
 - Contact the [KPPU for Competition Complaints](https://eng.kppu.go.id)
-- _Note: Indonesia is slated to be one of the [initial 4 countries](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) where developer registration will be activated_
+- _Note: Indonesia is slated to be one of the [initial 4 countries](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) where developer registration will be enforced_
 
-## Australia
+### Australia
 - Email: [info@accc.gov.au](mailto:info@accc.gov.au?subject=Concerns%20about%20Android%20and%20competition%20in%20Australia)
 - File a report with the [Australian Competition and Consumer Commission (ACCC)](https://www.accc.gov.au/about-us/contact-us-or-report-an-issue)
 
-## Japan
+### Japan
 - Email: [intnldiv@jftc.go.jp](mailto:intnldiv@jftc.go.jp?subject=Concerns%20about%20Android%20and%20competition%20in%20Japan)
+- Contact the [Japan Fair Trade Commission (JFTC)](http://www.jftc.go.jp/)
 
-## South Korea
+### South Korea
 - Email: [kftc@korea.kr](mailto:kftc@korea.kr?subject=Concerns%20about%20Android%20and%20competition%20in%20Korea)
+- Contact the [Korea Fair Trade Commission (KFTC)](http://www.ftc.go.kr/)
 
-## India
+### India
 - Email: [cci‑chairman@nic.in](mailto:cci‑chairman@nic.in?subject=Concerns%20about%20Android%20and%20competition%20in%20India)
+- Contact the [Competition Commission of India (CCI)](http://www.cci.gov.in/)
 
-## Canada
+### Canada
 - Email: [info@competitionbureau.gc.ca](mailto:info@competitionbureau.gc.ca?subject=Concerns%20about%20Android%20and%20competition%20in%20Canada)
+- Contact the [Canadian Competition Bureau](http://www.competitionbureau.gc.ca/)
 
-## Taiwan
+### Taiwan
 - Email: [ftc@ftc.gov.tw](mailto:ftc@ftc.gov.tw?subject=Concerns%20about%20Android%20and%20competition%20in%20Taiwan)
+- Contact the [Fair Trade Commission (FTC)](http://www.ftc.gov.tw/)
 
-## Turkey
+### Turkey
 - Email: [basin@rekabet.gov.tr](mailto:basin@rekabet.gov.tr?subject=Concerns%20about%20Android%20and%20competition%20in%20Turkey)
+- Contact the [Rekabet Kurumu / Turkish Competition Authority (RK)](http://www.rekabet.gov.tr/)
 
-## Argentina
+### Argentina
 - Email: [cndc@produccion.gob.ar](mailto:cndc@produccion.gob.ar?subject=Concerns%20about%20Android%20and%20competition%20in%20Argentina)
+- Contact the [Comisión Nacional de Defensa de la Competencia (CNDC)](http://www.argentina.gob.ar/produccion/defensadelaconsumidor/competencia)
 
-## Mexico
+### Mexico
 - Email: [contacto@cofece.mx](mailto:contacto@cofece.mx?subject=Concerns%20about%20Android%20and%20competition%20in%20Mexico)
 - Contact the [Comisión Federal de Competencia Económica (COFECE)](http://www.cofece.mx/)
 
