@@ -22,10 +22,10 @@ This registration will involve:
 Some actions you can take to help oppose the enactment of this policy are:
 
 ## Sign the Open Letter
-- Add your organization's signature to the draft [Open Letter to Google Regarding Mandatory Developer Registration for Third-Party App Distribution](https://docs.fediverse.foundation/pad/#/2/pad/view/OkfvdusnqafC8Wv+WUVpXB8RQk6XUFxmFHIa6CiBxQI/) by emailing [signatories@keepandroidopen.org](mailto:signatories@keepandroidopen.org) with your name, title, and affiliation.
+- Add your organization's signature to the draft [Open Letter to Google Regarding Mandatory Developer Registration for Third-Party App Distribution](https://docs.fediverse.foundation/pad/#/2/pad/view/OkfvdusnqafC8Wv+WUVpXB8RQk6XUFxmFHIa6CiBxQI/) by emailing [signatories@keepandroidopen.org](mailto:signatories@keepandroidopen.org?subject=Signature%20for%20keepandroidopen.org) with your name, title, and affiliation.
 
 ## European Union
-- Compain to the [EU Competition Policy](https://competition-policy.ec.europa.eu/antitrust-and-cartels/contact_en) or email [COMP-GREFFE-ANTITRUST@ec.europa.eu](mailto:COMP-GREFFE-ANTITRUST@ec.europa.eu?subject=Concerns%2Fabout%2FAndroid%2Fand%2Fcompetition)
+- Complain to the [EU Competition Policy](https://competition-policy.ec.europa.eu/antitrust-and-cartels/contact_en) or email [COMP-GREFFE-ANTITRUST@ec.europa.eu](mailto:COMP-GREFFE-ANTITRUST@ec.europa.eu?subject=Concerns%20about%20Android%20and%20competition)
 
 ## United States
 - Make a report to to [US Department of Justice Antitrust Report Online](https://www.justice.gov/atr/webform/submit-your-antitrust-report-online) and [US Federal Trade Commission: Antitrust Complaint](https://www.ftc.gov/advice-guidance/competition-guidance/antitrust-complaint-intake)
