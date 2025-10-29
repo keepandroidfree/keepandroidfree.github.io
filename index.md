@@ -31,7 +31,7 @@ This registration will involve:
 
 ### Resist and refuse
 
-If you are an app developer, _**do not**_ sign up for the early access program, perform identity verification, or accept an invitation to the Android Developer Console. Respond (politely) to any invitation with a list of your concerns and objections. Discourage fellow app developers and organizations from signing up to the program.
+If you are an app developer, _**do not**_ sign up for the early access program, perform identity verification, or accept an invitation to the Android Developer Console. Respond (politely) to any invitation with a list of your concernes and objections. Discourage fellow app developers and organizations from signing up to the program.
 
 _It is only through developer acquiescence that this takeover can possibly succeed._
 
@@ -116,18 +116,14 @@ When contacting regulators directly, you should be polite and specific about the
 - Email: [contacto@cofece.mx](mailto:contacto@cofece.mx?subject=Concerns%20about%20Android%20and%20competition%20in%20Mexico&cc=mexico@keepandroidopen.org)
 - Contact the [Comisión Federal de Competencia Económica (COFECE)](https://www.cofece.mx/)
 
-## Make your voice heard
-
-### Sign the Open Letter
+## Sign the Open Letter
 - Add your organization's signature to the draft [Open Letter to Google Regarding Mandatory Developer Registration for Third-Party App Distribution](https://docs.fediverse.foundation/pad/#/2/pad/view/OkfvdusnqafC8Wv+WUVpXB8RQk6XUFxmFHIa6CiBxQI/) by emailing [signatories@keepandroidopen.org](mailto:signatories@keepandroidopen.org?subject=Signature%20for%20keepandroidopen.org) with your name, title, and affiliation.
 
-### Sign These Petitions
--[Petition to UK Parliament](https://petition.parliament.uk/petitions/744446/sponsors/new?token=iefxfsni3sbrd4S3AWEU)
--[change.org pettition with most signatures](https://www.change.org/p/stop-google-from-limiting-apk-file-usage?recruiter=1370041382&recruited_by_id=fddec6e0-0e30-11f0-a55d-cd0eb0fd0ac4)
-
-### Contact These Consumer/Digital Rights Groups
--[Euroconsumers](https://www.euroconsumers.org/)
- -[Electronic Frontier Foundation](https://www.eff.org/)
+## If You Are A Developer
+-Fill out [Google's Feedback Survey on Developer Verification](https://docs.google.com/forms/d/e/1FAIpQLSfN3UQeNspQsZCO2ITkdzMxv81rJDEGGjO-UIDDY28Rz_GEVA/viewform?pli=1)
+-Comment on this [issue tracker](https://goo.gle/android-verification-early-access) or make your own
+-If you have an app on Android and am not willing to verify your account, add [Free Droid Warn](https://github.com/woheller69/FreeDroidWarn) to your app. This will spread awareness to users that might not know about Google's actions otherwise
+-Sign up for [early access](https://goo.gle/android-verification-early-access) to access an exclusive community discussion form and the ability to provide feedback on the program. This is another way you can, as a developer, state your concerns to Google about developer verification
 
 ## Other
 - Provide feedback directly to Google using their [Android developer verification requirements survey](https://docs.google.com/forms/d/e/1FAIpQLSfN3UQeNspQsZCO2ITkdzMxv81rJDEGGjO-UIDDY28Rz_GEVA/viewform?pli=1).
