@@ -34,7 +34,7 @@ Some actions you can take to help oppose the enactment of this policy are:
 - Make a report to the [UK Competition & Markets Authority](https://danb.me/blog/google-developer-verification-cma/) and [petition the UK Parliament](https://petition.parliament.uk/petitions/744446/sponsors/new) [BROKEN]
 
 ## Brazil
-- Reach out to Brazil's [Procon](https://www.procon.sp.gov.br/) and [Senacon](https://www.gov.br/mj/pt-br/assuntos/seus-direitos/consumidor)
+- Reach out to Procon (depends on your state) and [Senacon](https://www.gov.br/mj/pt-br/assuntos/seus-direitos/consumidor)
 
 ## Other
 - Provide feedback directly to Google using their [Android developer verification requirements survey](https://docs.google.com/forms/d/e/1FAIpQLSfN3UQeNspQsZCO2ITkdzMxv81rJDEGGjO-UIDDY28Rz_GEVA/viewform?pli=1).
