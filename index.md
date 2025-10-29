@@ -12,14 +12,10 @@ it will no longer be possible to develop apps for the Android platform
 without first registering centrally with Google.
 This registration will involve:
 
-<div style="display: inline-flex; align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="img/money_bag.svg" /> Paying a fee to Google</div>
-<br />
-<div style="display: inline-flex; align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="img/contract_edit.svg" /> Agreeing to Google's Terms and Conditions</div>
-<br />
-<div style="display: inline-flex; align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="img/id_card.svg" /> Providing government identification</div>
-<br />
-<div style="display: inline-flex; align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="img/fingerprint.svg" /> Uploading evidence of the developer's private signing key</div>
-<br />
+<div style="display: inline-flex; align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="img/money_bag.svg" /> Paying a fee to Google</div> <br />
+<div style="display: inline-flex; align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="img/contract_edit.svg" /> Agreeing to Google's Terms and Conditions</div> <br />
+<div style="display: inline-flex; align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="img/id_card.svg" /> Providing government identification</div> <br />
+<div style="display: inline-flex; align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="img/fingerprint.svg" /> Uploading evidence of the developer's private signing key</div> <br />
 <div style="display: inline-flex; align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="img/receipt.svg" /> Listing all current and future application identifiers</div>
 
 
@@ -275,24 +271,24 @@ DISABLEDbody::before {
 }
 
 h1 {
-            font-size: 46px;
-            font-weight: 600;
-            color: #2c3e50;
-            margin: 0;
-            display: flex;
-            align-items: center;
-            gap: 20px;
+    font-size: 46px;
+    font-weight: 600;
+    color: #2c3e50;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    text-align: center;
 
 }
 
-        .h1::before,
-        .h1::after {
-            content: '';
-            flex: 1;
-            height: 2px;
-            background: linear-gradient(90deg, transparent, #3498db, transparent);
-            max-width: 100px;
-        }
+h1::before, h1::after {
+    content: '';
+    flex: 1;
+    height: 2px;
+    background: linear-gradient(90deg, transparent, #3498db, transparent);
+    max-width: 100px;
+}
 
 
 html, body: {
