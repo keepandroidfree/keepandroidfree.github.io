@@ -84,7 +84,7 @@ When contacting regulators directly, you should be polite and specific about the
 
 #### Canada
 - Email: [info@competitionbureau.gc.ca](mailto:info@competitionbureau.gc.ca?subject=Concerns%20about%20Android%20and%20competition%20in%20Canada&cc=canada@keepandroidopen.org)
-- Contact the [Canadian Competition Bureau](https://www.competitionbureau.gc.ca/)
+- File a report with the [https://competition-bureau.canada.ca/en](https://competition-bureau.canada.ca/en/contact-competition-bureau-canada/complaint-form)
 
 #### Taiwan
 - Email: [ftc@ftc.gov.tw](mailto:ftc@ftc.gov.tw?subject=Concerns%20about%20Android%20and%20competition%20in%20Taiwan&cc=taiwan@keepandroidopen.org)
