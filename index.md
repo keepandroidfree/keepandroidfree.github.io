@@ -21,9 +21,6 @@ This registration will involve:
 
 Some actions you can take to help oppose the enactment of this policy are:
 
-## Sign the Open Letter
-- Add your organization's signature to the draft [Open Letter to Google Regarding Mandatory Developer Registration for Third-Party App Distribution](https://docs.fediverse.foundation/pad/#/2/pad/view/OkfvdusnqafC8Wv+WUVpXB8RQk6XUFxmFHIa6CiBxQI/) by emailing [signatories@keepandroidopen.org](mailto:signatories@keepandroidopen.org?subject=Signature%20for%20keepandroidopen.org) with your name, title, and affiliation.
-
 ## Contact National Regulators
 
 When emailing regulators, you should be polite and specific about the harm you believe these policies will cause, both to consumers and to competition.
@@ -96,6 +93,9 @@ When emailing regulators, you should be polite and specific about the harm you b
 ### Mexico
 - Email: [contacto@cofece.mx](mailto:contacto@cofece.mx?subject=Concerns%20about%20Android%20and%20competition%20in%20Mexico)
 - Contact the [Comisión Federal de Competencia Económica (COFECE)](http://www.cofece.mx/)
+
+## Sign the Open Letter
+- Add your organization's signature to the draft [Open Letter to Google Regarding Mandatory Developer Registration for Third-Party App Distribution](https://docs.fediverse.foundation/pad/#/2/pad/view/OkfvdusnqafC8Wv+WUVpXB8RQk6XUFxmFHIa6CiBxQI/) by emailing [signatories@keepandroidopen.org](mailto:signatories@keepandroidopen.org?subject=Signature%20for%20keepandroidopen.org) with your name, title, and affiliation.
 
 ## Other
 - Provide feedback directly to Google using their [Android developer verification requirements survey](https://docs.google.com/forms/d/e/1FAIpQLSfN3UQeNspQsZCO2ITkdzMxv81rJDEGGjO-UIDDY28Rz_GEVA/viewform?pli=1).
