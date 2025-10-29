@@ -172,6 +172,7 @@ When contacting regulators directly, you should be polite and specific about the
 - [https://news.ycombinator.com/item?id=45409794](https://news.ycombinator.com/item?id=45409794)
 - [https://news.ycombinator.com/item?id=45507173](https://news.ycombinator.com/item?id=45507173)
 - [https://news.ycombinator.com/item?id=45569371](https://news.ycombinator.com/item?id=45569371)
+- [https://news.ycombinator.com/item?id=45742488](https://news.ycombinator.com/item?id=45742488)
 - [https://lobste.rs/s/x1sdu5/f_droid_google_s_developer_registration](https://lobste.rs/s/x1sdu5/f_droid_google_s_developer_registration)
 - [https://www.reddit.com/r/androiddev/comments/1n1m699/horrible_news/](https://www.reddit.com/r/androiddev/comments/1n1m699/horrible_news/)
 - [https://www.reddit.com/r/androiddev/comments/1n3jtrf/google_you_royally_screwed_up/](https://www.reddit.com/r/androiddev/comments/1n3jtrf/google_you_royally_screwed_up/)
