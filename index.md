@@ -38,7 +38,9 @@ Some actions you can take to help oppose the enactment of this policy are:
 
 ## Australia
 - File a report with the [Australian Competition and Consumer Commission (ACCC)](https://www.accc.gov.au/about-us/contact-us-or-report-an-issue)
-
+## Canada
+  File a report with the [https://competition-bureau.canada.ca/en](https://competition-bureau.canada.ca/en/contact-competition-bureau-canada/complaint-form)
+  
 ## Other
 - Provide feedback directly to Google using their [Android developer verification requirements survey](https://docs.google.com/forms/d/e/1FAIpQLSfN3UQeNspQsZCO2ITkdzMxv81rJDEGGjO-UIDDY28Rz_GEVA/viewform?pli=1).
 - Make your voice heard on social media and with blog posts.
