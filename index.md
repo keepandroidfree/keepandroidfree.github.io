@@ -33,11 +33,11 @@ This registration will involve:
 
 If you are an app developer, _**do not**_ sign up for the early access program, perform identity verification, or accept an invitation to the Android Developer Console. Respond (politely) to any invitation with a list of your concerns and objections. Discourage fellow app developers and organizations from signing up to the program.
 
-_It is only through developer acquiescence that this takeover can possibly succeed._
+_It is only through developer acquiescence that this takeover plan can possibly succeed._
 
 ### Contact national regulators
 
-When contacting regulators directly, you should be polite and specific about the harm you believe these policies will cause, both to consumers and to competition. Complaints are especially impactful when they are authored by a citizen of that country or region, and when the language of the email is written in one of the official languages of the region's governing body.
+When contacting regulators directly, you should be polite and specific about the harm you believe these policies will cause, both to consumers and to competition. Complaints are especially impactful when they are authored by a citizen of that country or region, and when the language of the email is written in one of the official languages of the region's governing body. Request a written acknowledge of the complaint, and consider forwarding any responses you receive to [victory@keepandroidopen.org](mailto:keepandroidopen.org) so that we might highlight and reference them.
 
 #### European Union
 - Email: [COMP-GREFFE-ANTITRUST@ec.europa.eu](mailto:COMP-GREFFE-ANTITRUST@ec.europa.eu?subject=Concerns%20about%20Android%20and%20competition%20in%20the%20EU&cc=europe@keepandroidopen.org)
