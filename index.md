@@ -47,7 +47,7 @@ Complaints are especially impactful when they are authored by a citizen of that 
 - Email: [COMP-GREFFE-ANTITRUST@ec.europa.eu](mailto:COMP-GREFFE-ANTITRUST@ec.europa.eu?subject=Concerns%20about%20Android%20and%20competition%20in%20the%20EU&cc=europe@keepandroidopen.org)
 - Send feedback on EU interplay between DMA and GDPR: [Consultation on joint guidelines on the interplay between DMA and GDPR](https://digital-markets-act.ec.europa.eu/consultation-joint-guidelines-interplay-between-dma-and-gdpr_en) until December 4.
 - Complain to the [EU Competition Policy](https://competition-policy.ec.europa.eu/antitrust-and-cartels/contact_en)
-- Send feedback on EU Digital Fairness Act: [EU Digital Fairness Act: Have Your Say](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14622-Digital-Fairness-Act_en) [EXPIRED]
+- ~~[EXPIRED] Send feedback on EU Digital Fairness Act: [EU Digital Fairness Act: Have Your Say](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14622-Digital-Fairness-Act_en)~~
 
 #### United Kingdom
 - Email: [general.enquiries@cma.gov.uk](mailto:general.enquiries@cma.gov.uk?subject=Concerns%20about%20Android%20and%20competition%20in%20the%20United%20Kingdom&cc=uk@keepandroidopen.org)
