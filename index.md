@@ -121,8 +121,8 @@ When contacting regulators directly, you should be polite and specific about the
 - [change.org petition with most signatures](https://www.change.org/p/stop-google-from-limiting-apk-file-usage?recruiter=1370041382&recruited_by_id=fddec6e0-0e30-11f0-a55d-cd0eb0fd0ac4)
 
 ### Contact These Consumer/Digital Rights Groups
--[Euroconsumers](https://www.euroconsumers.org/)
- -[Electronic Frontier Foundation](https://www.eff.org/)
+- [Euroconsumers](https://www.euroconsumers.org/)
+- [Electronic Frontier Foundation](https://www.eff.org/)
 
 ## Other
 - Provide feedback directly to Google using their [Android developer verification requirements survey](https://docs.google.com/forms/d/e/1FAIpQLSfN3UQeNspQsZCO2ITkdzMxv81rJDEGGjO-UIDDY28Rz_GEVA/viewform?pli=1).
