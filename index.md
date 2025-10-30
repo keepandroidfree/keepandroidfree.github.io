@@ -168,10 +168,7 @@ Complaints are especially impactful when they are authored by a citizen of that 
 - “Android Security or Vendor Lock-In? Google’s New Sideloading Rules Smell Fishy” — [https://news.itsfoss.com/new-android-sideloading-rules/](https://news.itsfoss.com/new-android-sideloading-rules/)
 - "Google Demands Dev Identity For All Android Apps" - [https://www.i-programmer.info/news/193-android/18276-google-demands-dev-identity-for-all-android-apps.html](https://www.i-programmer.info/news/193-android/18276-google-demands-dev-identity-for-all-android-apps.html)
 - "Google Defends Developer Verification" - [https://www.i-programmer.info/news/193-android/18356-google-defends-developer-verification.html](https://www.i-programmer.info/news/193-android/18356-google-defends-developer-verification.html)
-- "Join The Protest Against The Closing Of Android" - [https://www.i-programmer.info/news/193-android/18419-join-the-protest-against-the-closing-of-android.html]([https://www.i-programmer.info/news/193-android/18356-google-defends-developer-verification.html](https://www.i-programmer.info/news/193-android/18419-join-the-protest-against-the-closing-of-android.html))
-
-- ""
-
+- "Join The Protest Against The Closing Of Android" - [https://www.i-programmer.info/news/193-android/18419-join-the-protest-against-the-closing-of-android.html](https://www.i-programmer.info/news/193-android/18356-google-defends-developer-verification.html](https://www.i-programmer.info/news/193-android/18419-join-the-protest-against-the-closing-of-android.html)
 
 ### Video Responses
 - “Google: 'Your $1000 phone needs our permission to install apps now'” — Louis Rossmann — [https://youtu.be/QBEKlIV_70E](https://youtu.be/QBEKlIV_70E)
