@@ -349,7 +349,7 @@ html, body: {
 }
 
 .outerlync {
-  cursor: cell;
+  cursor: not-allowed;
   display: inline-block;
   background: transparent;
 }
