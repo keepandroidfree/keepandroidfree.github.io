@@ -287,13 +287,13 @@ Complaints are especially impactful when they are authored by a citizen of that 
             min-width: 200px; /* Ensures space on smaller screens */
             margin-bottom: 20px;
         ">
-            <h3 class="outerlync" style="
+            <div class="outerlync" style="
                 margin-top: 0;
                 margin-bottom: 10px;
                 font-size: 20px;
             ">
                 <img class="innerlync" alt="Altered Deal Logo" src="altered-deal.png" width="150px" />
-            </h3>
+            </div>
         </div>
 
     </div>
