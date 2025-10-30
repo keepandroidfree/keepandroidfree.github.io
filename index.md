@@ -79,7 +79,7 @@ Complaints are especially impactful when they are authored by a citizen of that 
 - _Note: Indonesia is slated to be one of the [initial 4 countries](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) where developer registration will be enforced_
 
 #### Australia
-- Email: [info@accc.gov.au](mailto:info@accc.gov.au?subject=Concerns%20about%20Android%20and%20competition%20in%20Australia&cc=australia@keepandroidopen.org)
+- Email: [international@accc.gov.au](mailto:international@accc.gov.au?subject=Concerns%20about%20Android%20and%20competition%20in%20Australia&cc=australia@keepandroidopen.org)
 - File a report with the [Australian Competition and Consumer Commission (ACCC)](https://www.accc.gov.au/about-us/contact-us-or-report-an-issue)
 - Send a request to Australian Australian Consumers’ Association ([CHOICE](https://accounts.choice.com.au/contact-us/)). Ask them to lodge a designated complaint to the Australian Competition & Consumer Comission (ACCC).
 
