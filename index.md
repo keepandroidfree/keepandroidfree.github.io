@@ -21,11 +21,11 @@ This registration will involve:
 
 ## What this means for your rights
 
-➤ You, the _consumer_, purchased your Android device believing in Google’s promise that it was an open computing platform and that you could run whatever software you choose on it. Instead, starting next year, they will be non-consensually pushing an update to your operating system that irrevocably blocks this right and leaves you at the mercy of their judgement over what software you are permitted to trust.
+➤ You, **the consumer**, purchased your Android device believing in Google’s promise that it was an open computing platform and that you could run whatever software you choose on it. Instead, starting next year, they will be non-consensually pushing an update to your operating system that irrevocably blocks this right and leaves you at the mercy of their judgement over what software you are permitted to trust.
 
-➤ You, the _creator_, can no longer develop an app and share it directly with your friends, family, and community without first seeking Google’s approval. The promise of Android — and a marketing advantage it has used to distinguish itself against the iPhone — has always been that it is “open”. But Google clearly feels that they have enough of a lock on the Android ecosystem, along with sufficient regulatory capture, that they can now jettison this principle with prejudice and impunity.
+➤ You, **the creator**, can no longer develop an app and share it directly with your friends, family, and community without first seeking Google’s approval. The promise of Android — and a marketing advantage it has used to distinguish itself against the iPhone — has always been that it is “open”. But Google clearly feels that they have enough of a lock on the Android ecosystem, along with sufficient regulatory capture, that they can now jettison this principle with prejudice and impunity.
 
-➤ You, the _state_, are ceding the rights of your citizens and your own digital sovereignty to a company with a track record of complying with the extrajudicial demands of authoritarian regimes to remove perfectly legal apps that they happen to dislike. The software that is critical to the running of your businesses and governments will be at the mercy of the opaque whims of a distant and unaccountable corporation.
+➤ You, **the state**, are ceding the rights of your citizens and your own digital sovereignty to a company with a track record of complying with the extrajudicial demands of authoritarian regimes to remove perfectly legal apps that they happen to dislike. The software that is critical to the running of your businesses and governments will be at the mercy of the opaque whims of a distant and unaccountable corporation.
 
 ## How you can help
 
@@ -37,7 +37,7 @@ _It is only through developer acquiescence that this takeover plan can possibly 
 
 ### Contact national regulators
 
-When contacting regulators directly, you should be polite and specific about the harm you believe these policies will cause, both to consumers and to competition. Complaints are especially impactful when they are authored by a citizen of that country or region, and when the language of the email is written in one of the official languages of the region's governing body. Request a written acknowledge of the complaint, and consider forwarding any responses you receive to [victory@keepandroidopen.org](mailto:keepandroidopen.org) so that we might highlight and reference them.
+Regulators worldwide are genuinely concerned about monopolies and the centralization of power in the tech sector, and want to hear directly from individuals who are affected and concerned. When contacting regulators directly, you should be _polite_ and _specific_ about the harm you believe these policies will cause, both to consumers and to competition. Complaints are especially impactful when they are authored by a citizen of that country or region, and when the language of the email is written in one of the official languages of the region's governing body. Request a written acknowledge of the complaint, and consider forwarding any responses you receive to [victory@keepandroidopen.org](mailto:keepandroidopen.org) so that we might highlight and reference them.
 
 #### European Union
 - Email: [COMP-GREFFE-ANTITRUST@ec.europa.eu](mailto:COMP-GREFFE-ANTITRUST@ec.europa.eu?subject=Concerns%20about%20Android%20and%20competition%20in%20the%20EU&cc=europe@keepandroidopen.org)
