@@ -252,7 +252,7 @@ When contacting regulators directly, you should be polite and specific about the
                 padding: 0;
                 margin: 0;
             ">
-                <li style="margin-bottom: 5px;"><a href="https://github.com/keepandroidopen/keepandroidopen.github.io/issues" style="text-decoration: none;">Report Site Issues</a></li>
+                <li style="margin-bottom: 5px;">Problems: <a href="https://github.com/keepandroidopen/keepandroidopen.github.io/issues" style="text-decoration: none;">Report Site Issues</a></li>
             </ul>
         </div>
 
