@@ -222,9 +222,10 @@ Complaints are especially impactful when they are authored by a citizen of that 
 
     <div style="
         display: flex;
-        flex-wrap: wrap; /* Allows sections to stack on smaller screens */
-        justify-content: space-between; /* Spreads out the content */
-        max-width: 1200px; /* Max width for content centering */
+        flex-wrap: wrap;
+        justify-content: space-between;
+        max-width: 1200px;
+        padding-top: 2em;
         margin: 0 auto;
     ">
 
