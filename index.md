@@ -112,8 +112,8 @@ Complaints are especially impactful when they are authored by a citizen of that 
 - Contact the [Comisión Nacional de Defensa de la Competencia (CNDC)](https://www.argentina.gob.ar/defensadelacompetencia)
 
 #### Mexico
-- Email: [contacto@cofece.mx](mailto:contacto@cofece.mx?subject=Concerns%20about%20Android%20and%20competition%20in%20Mexico&cc=mexico@keepandroidopen.org)
-- Contact the [Comisión Federal de Competencia Económica (COFECE)](https://www.cofece.mx/)
+- Email: [denuncias@antimonopolio.gob.mx ](mailto:denuncias@antimonopolio.gob.mx ?subject=Concerns%20about%20Android%20and%20competition%20in%20Mexico&cc=mexico@keepandroidopen.org)
+- Contact the [Comisión Nacional Antimonopolio](https://www.antimonopolio.gob.mx/Micrositios/)
 
 #### Philippines
 - Contact the [Philippine Competition Commission (PCC)](https://www.phcc.gov.ph/)
