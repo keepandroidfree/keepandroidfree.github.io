@@ -31,7 +31,7 @@ This registration will involve:
 
 ### Resist and refuse
 
-If you are an app developer, _**do not**_ sign up for the early access program, perform identity verification, or accept an invitation to the Android Developer Console. Respond (politely) to any invitation with a list of your concerns and objections. Discourage fellow app developers and organizations from signing up to the program.
+If you are an app developer, _**do not sign up**_ for the early access program, perform identity verification, or accept an invitation to the Android Developer Console. Respond (politely) to any invitation with a list of your concerns and objections. Discourage fellow app developers and organizations from signing up to the program.
 
 _It is only through developer acquiescence that this takeover plan can possibly succeed._
 
