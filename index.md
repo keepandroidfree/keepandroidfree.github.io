@@ -287,12 +287,12 @@ Complaints are especially impactful when they are authored by a citizen of that 
             min-width: 200px; /* Ensures space on smaller screens */
             margin-bottom: 20px;
         ">
-            <h3 style="
+            <h3 class="outerlync" style="
                 margin-top: 0;
                 margin-bottom: 10px;
                 font-size: 20px;
             ">
-                <img alt="Altered Deal Logo" src="altered-deal.png" width="150px" />
+                <img class="innerlync" alt="Altered Deal Logo" src="altered-deal.png" width="150px" />
             </h3>
         </div>
 
@@ -349,5 +349,29 @@ html, body: {
     font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 }
 
+.outerlync {
+  XXXposition: absolute;
+  XXXtop: 50%;
+  XXXleft: 50%;
+  XXXmargin-right: -50%;
+  XXXtransform: translate(-50%, -50%);
+  display: inline-block;
+  background: transparent;
+}
+
+img.innerlync {
+  XXXmax-width: 15vw;
+  XXXmax-height: 15vh;
+}
+
+.innerlync {
+  transform-style: preserve-3d;
+  transition: ease-out 0.6s;
+}
+
+.outerlync:hover .innerlync {
+  transition: ease-in-out 2.5s;
+  transform: rotate(1800deg) rotateX(0deg) rotateY(0deg) rotateZ(0deg);
+}
 </style>
 
