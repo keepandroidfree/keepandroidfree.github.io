@@ -115,6 +115,9 @@ Complaints are especially impactful when they are authored by a citizen of that 
 - Email: [contacto@cofece.mx](mailto:contacto@cofece.mx?subject=Concerns%20about%20Android%20and%20competition%20in%20Mexico&cc=mexico@keepandroidopen.org)
 - Contact the [Comisión Federal de Competencia Económica (COFECE)](https://www.cofece.mx/)
 
+#### Philippines
+- Contact the [Philippine Competition Commission (PCC)](https://www.phcc.gov.ph/)
+
 ## Make your voice heard
 
 ### Sign the Open Letter
