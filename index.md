@@ -152,6 +152,8 @@ Complaints are especially impactful when they are authored by a citizen of that 
 
 ### Press Reactions
 - "'Keep Android Open' movement fights back against Google sideloading restrictions" – [https://www.theregister.com/2025/10/29/keep_android_open_movement/](https://www.theregister.com/2025/10/29/keep_android_open_movement/)
+- "Resistance to Google’s Android verification grows among developers" – [https://www.techzine.eu/news/devops/135878/resistance-to-googles-android-verification-grows-among-developers/](https://www.techzine.eu/news/devops/135878/resistance-to-googles-android-verification-grows-among-developers/)
+- "‘Keep Android Open’ Movement Challenges Google’s Developer Verification Rule" — [https://www.opensourceforu.com/2025/10/keep-android-open-movement-challenges-googles-developer-verification-rule/](https://www.opensourceforu.com/2025/10/keep-android-open-movement-challenges-googles-developer-verification-rule/)
 - "Google kneecaps indie Android devs, forces them to register" — [https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/)
 - “Open-Source Android Apps at Risk Under Google’s New Decree” — [https://www.techrepublic.com/article/news-f-droid-warns-google-developer-decree-open-source-android/](https://www.techrepublic.com/article/news-f-droid-warns-google-developer-decree-open-source-android/)
 - “Google’s New Developer ID Rule Could Harm F-Droid, Says Open-Source Advocate” — [https://reclaimthenet.org/googles-android-id-rule-threatens-f-droids-future](https://reclaimthenet.org/googles-android-id-rule-threatens-f-droids-future)
