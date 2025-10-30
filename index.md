@@ -50,9 +50,10 @@ Complaints are especially impactful when they are authored by a citizen of that 
 - Send feedback on EU Digital Fairness Act: [EU Digital Fairness Act: Have Your Say](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14622-Digital-Fairness-Act_en) [EXPIRED]
 
 #### United States
-- Email: [antitrust@ftc.gov](mailto:antitrust@ftc.gov?subject=Concerns%20about%20Android%20and%20competition&cc=usftc@keepandroidopen.org)
-- Email: [antitrust.complaints@usdoj.gov](mailto:antitrust.complaints@usdoj.gov?subject=Concerns%20about%20Android%20and%20competition&cc=usdoj@keepandroidopen.org)
-- Make a report to to [US Department of Justice Antitrust Report Online](https://www.justice.gov/atr/webform/submit-your-antitrust-report-online) and [US Federal Trade Commission: Antitrust Complaint](https://www.ftc.gov/advice-guidance/competition-guidance/antitrust-complaint-intake)
+- Make a report to the [US Department of Justice Antitrust Report Online](https://www.justice.gov/atr/webform/submit-your-antitrust-report-online) 
+- File a complaint with the [US Federal Trade Commission: Antitrust Complaints](https://www.ftc.gov/advice-guidance/competition-guidance/antitrust-complaint-intake)
+- ~~Email (DEFUNCT): [antitrust@ftc.gov](mailto:antitrust@ftc.gov?subject=Concerns%20about%20Android%20and%20competition&cc=usftc@keepandroidopen.org)~~
+- ~~Email (DEFUNCT): [antitrust.complaints@usdoj.gov](mailto:antitrust.complaints@usdoj.gov?subject=Concerns%20about%20Android%20and%20competition&cc=usdoj@keepandroidopen.org)~~
 
 #### United Kingdom
 - Email: [general.enquiries@cma.gov.uk](mailto:general.enquiries@cma.gov.uk?subject=Concerns%20about%20Android%20and%20competition%20in%20the%20United%20Kingdom&cc=uk@keepandroidopen.org)
