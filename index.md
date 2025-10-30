@@ -350,11 +350,7 @@ html, body: {
 }
 
 .outerlync {
-  XXXposition: absolute;
-  XXXtop: 50%;
-  XXXleft: 50%;
-  XXXmargin-right: -50%;
-  XXXtransform: translate(-50%, -50%);
+  cursor: cell;
   display: inline-block;
   background: transparent;
 }
