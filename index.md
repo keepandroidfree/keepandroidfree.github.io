@@ -122,8 +122,8 @@ When contacting regulators directly, you should be polite and specific about the
 - Add your organization's signature to the draft [Open Letter to Google Regarding Mandatory Developer Registration for Third-Party App Distribution](https://docs.fediverse.foundation/pad/#/2/pad/view/OkfvdusnqafC8Wv+WUVpXB8RQk6XUFxmFHIa6CiBxQI/) by emailing [signatories@keepandroidopen.org](mailto:signatories@keepandroidopen.org?subject=Signature%20for%20keepandroidopen.org) with your name, title, and affiliation.
 
 ### Sign These Petitions
--[Petition to UK Parliament](https://petition.parliament.uk/petitions/744446/sponsors/new?token=iefxfsni3sbrd4S3AWEU)
--[change.org pettition with most signatures](https://www.change.org/p/stop-google-from-limiting-apk-file-usage?recruiter=1370041382&recruited_by_id=fddec6e0-0e30-11f0-a55d-cd0eb0fd0ac4)
+- [Petition to UK Parliament](https://petition.parliament.uk/petitions/744446/sponsors/new?token=iefxfsni3sbrd4S3AWEU)
+- [change.org petition with most signatures](https://www.change.org/p/stop-google-from-limiting-apk-file-usage?recruiter=1370041382&recruited_by_id=fddec6e0-0e30-11f0-a55d-cd0eb0fd0ac4)
 
 ### Contact These Consumer/Digital Rights Groups
 -[Euroconsumers](https://www.euroconsumers.org/)
