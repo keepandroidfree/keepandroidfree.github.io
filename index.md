@@ -271,11 +271,10 @@ Complaints are especially impactful when they are authored by a citizen of that 
             margin-bottom: 20px;
         ">
             <p style="padding: 0px;">
-                <strong>Privacy Statement:</strong> This site uses no cookies and performs no user tracking or logging.
-            </p>
-
-            <p style="padding: 0px;">
                 <strong>Disclaimer:</strong> This website is a community-driven noncommercial undertaking. It is operated solely for informational and educational purposes.
+            </p>
+            <p style="padding: 0px;">
+                <strong>Privacy:</strong> This site uses no cookies and performs no user tracking or logging.
             </p>
             <p style="padding: 0px;">
                 <strong>Copyright:</strong> None. This work is marked <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal</a><img src="img/cc.svg" alt="CC0 logo" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="img/zero.svg" alt="CC0 zero logo" style="max-width: 1em;max-height:1em;margin-left: .2em;">
