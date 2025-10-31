@@ -154,7 +154,7 @@ Complaints are especially impactful when they are authored by a citizen of that 
 ### Support These Projects
 These projects are working to provice much-needed competition in the mobile hardware space.
 - [Librephone by the Free Software Foundation](https://librephone.fsf.org/)
-- [Graphine OS](https://grapheneos.org/)
+- [Graphene OS](https://grapheneos.org/)
 - [PinePhone by Pine64](https://pine64.org/devices/pinephone/)
 - [Spirit Smartphone by V3lectronics](https://github.com/V3lectronics/SPIRIT)
 - [Shiftphone](https://www.shift.eco/en/)
