@@ -201,6 +201,7 @@ These projects are working to provide much-needed competition in the mobile hard
 - “Android Security or Vendor Lock-In? Google’s New Sideloading Rules Smell Fishy” — [https://news.itsfoss.com/new-android-sideloading-rules/](https://news.itsfoss.com/new-android-sideloading-rules/)
 - "Google Demands Dev Identity For All Android Apps" - [https://www.i-programmer.info/news/193-android/18276-google-demands-dev-identity-for-all-android-apps.html](https://www.i-programmer.info/news/193-android/18276-google-demands-dev-identity-for-all-android-apps.html)
 - "Google Defends Developer Verification" - [https://www.i-programmer.info/news/193-android/18356-google-defends-developer-verification.html](https://www.i-programmer.info/news/193-android/18356-google-defends-developer-verification.html)
+- “Keep Android Open – Abwehr gegen Verbot anonymer Apps von Google“- [https://www.heise.de/news/Keep-Android-Open-Abwehr-gegen-Verbot-anonymer-Apps-von-Google-10965483.html](https://www.heise.de/news/Keep-Android-Open-Abwehr-gegen-Verbot-anonymer-Apps-von-Google-10965483.html)
 
 ### Video Responses
 - “Google: 'Your $1000 phone needs our permission to install apps now'” — Louis Rossmann — [https://youtu.be/QBEKlIV_70E](https://youtu.be/QBEKlIV_70E)
