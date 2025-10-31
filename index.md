@@ -327,27 +327,6 @@ These projects are working to provide much-needed competition in the mobile hard
 </footer>
 
 <style>
-    /* DISABLED */
-    body::before {
-    content: '';
-    position: fixed; /* Makes the background stay put while content scrolls */
-    top: 15%;
-    left: 15%;
-    width: 70%;
-    height: 70%;
-    z-index: -1; /* Puts the background behind all other content */
-
-    background-image: url('altered-deal.png');
-    background-size: min(70vw, 70vh);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-blend-mode: luminosity, overlay;
-
-    /*filter: grayscale(100%);*/
-    /*filter: saturate(0);*/
-    filter: opacity(10%) grayscale(100%);
-}
-
 h1 {
     font-size: 46px;
     font-weight: 600;
@@ -371,7 +350,6 @@ h1::before, h1::after {
     margin-right: auto;
 }
 
-
 html, body: {
     font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 }
@@ -380,11 +358,6 @@ html, body: {
   cursor: not-allowed;
   display: inline-block;
   background: transparent;
-}
-
-img.innerlync {
-  XXXmax-width: 15vw;
-  XXXmax-height: 15vh;
 }
 
 .innerlync {
