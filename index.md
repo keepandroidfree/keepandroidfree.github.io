@@ -131,6 +131,32 @@ Complaints are especially impactful when they are authored by a citizen of that 
 ### Contact These Consumer/Digital Rights Groups
 - [Euroconsumers](https://www.euroconsumers.org/)
 - [Electronic Frontier Foundation](https://www.eff.org/)
+- [Digital Rights Ireland](https://www.digitalrights.ie/)
+- [Digital Freedom and Rights Association (Sweden)](https://www.dfri.se/)
+- [European Digital Rights](https://edri.org/)
+- [La Quadrature du Net (France)](https://www.laquadrature.net/)
+- [April (France)](https://www.april.org/en)
+- [Free Software Foundation](https://www.fsf.org/)
+- [Free Software Foundation Europe](https://fsfe.org/)
+- [Free Software Movement India](https://www.fsmi.in/)
+- [IT-Political Association of Denmark](https://www.itpol.dk/)
+- [Digital Rights Watch (Australia)](https://digitalrightswatch.org.au/)
+- [Open Rights Group (UK)](https://www.openrightsgroup.org/)
+- [Bits of Freedom (Netherlands)](https://www.bitsoffreedom.nl/)
+
+### Support These Projects (Help Open Source Phones Develop Enough to Compete With Google)
+- [Librephone by the Free Software Foundation](https://librephone.fsf.org/)
+- [Graphine OS](https://grapheneos.org/)
+- [PinePhone by Pine64](https://pine64.org/devices/pinephone/)
+- [Spirit Smartphone by V3lectronics](https://github.com/V3lectronics/SPIRIT)
+- [Shiftphone](https://www.shift.eco/en/)
+- [PureOS by Purism](https://pureos.net/)
+- [PostmarketOS](https://postmarketos.org/)
+- [Replicant](https://www.replicant.us/)
+- [Ubuntu Touch by the UBPorts Community](https://www.ubuntu-touch.io/)
+- [Fairphone](https://www.fairphone.com/)
+- [Sailfish OS](https://sailfishos.org/)
+- [Mobian](https://mobian-project.org/)
 
 ## Other
 - [Install F-Droid](https://f-droid.org) on your Android device(s). The more people that use alternative app marketplaces, the harder it will be to shut them out.
