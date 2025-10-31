@@ -35,7 +35,7 @@ If you are an app developer, _**do not sign up**_ for the early access program, 
 
 Discourage fellow app developers and organizations from signing up to the program. Use community forums, social media, and blog posts to spread the message.
 
-—— _It is only through developer acquiescence that this takeover plan can possibly succeed._ ——
+—— _It is only through developer acquiescence that their takeover plan can possibly succeed._ ——
 
 ### Contact national regulators
 
