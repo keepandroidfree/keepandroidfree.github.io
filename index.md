@@ -152,9 +152,9 @@ Complaints are especially impactful when they are authored by a citizen of that 
 - Help this project out by [editing this page](https://github.com/keepandroidopen/keepandroidopen.github.io/blob/main/index.md) with more useful information.
 
 ### Support These Projects
-These projects are working to provice much-needed competition in the mobile hardware space.
+These projects are working to provide much-needed competition in the mobile hardware space.
 - [Librephone by the Free Software Foundation](https://librephone.fsf.org/)
-- [Graphine OS](https://grapheneos.org/)
+- [Graphene OS](https://grapheneos.org/)
 - [PinePhone by Pine64](https://pine64.org/devices/pinephone/)
 - [Spirit Smartphone by V3lectronics](https://github.com/V3lectronics/SPIRIT)
 - [Shiftphone](https://www.shift.eco/en/)
@@ -326,8 +326,8 @@ These projects are working to provice much-needed competition in the mobile hard
 </footer>
 
 <style>
-
-DISABLEDbody::before {
+    /* DISABLED */
+    body::before {
     content: '';
     position: fixed; /* Makes the background stay put while content scrolls */
     top: 15%;
