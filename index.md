@@ -143,6 +143,8 @@ Complaints are especially impactful when they are authored by a citizen of that 
 - [Digital Rights Watch (Australia)](https://digitalrightswatch.org.au/)
 - [Open Rights Group (UK)](https://www.openrightsgroup.org/)
 - [Bits of Freedom (Netherlands)](https://www.bitsoffreedom.nl/)
+- [Swecha Andhra Pradesh](https://www.swechaap.org/)
+
 
 ## Other
 - [Install F-Droid](https://f-droid.org) on your Android device(s). The more people that use alternative app marketplaces, the harder it will be to shut them out.
@@ -177,6 +179,7 @@ These projects are working to provide much-needed competition in the mobile hard
 - “F-Droid and Google's Developer Registration Decree” — [https://f-droid.org/en/2025/09/29/google-developer-registration-decree.html](https://f-droid.org/en/2025/09/29/google-developer-registration-decree.html) ([Hacker News Thread](https://news.ycombinator.com/item?id=45409794))
 - “Pluralistic: Darth Android” — [https://pluralistic.net/2025/09/01/fulu/](https://pluralistic.net/2025/09/01/fulu/)
 - “Google plans to block side-loading like Apple, declaring war on Android freedom” — [https://tuta.com/blog/android-side-load-apps-google](https://tuta.com/blog/android-side-load-apps-google)
+- "Keep Android Free and Open" - [https://www.swechaap.org/blog/keep-android-free-and-open/](https://www.swechaap.org/blog/keep-android-free-and-open)
 
 
 ### Press Reactions
